@@ -1,8 +1,8 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]As Branquelas (2004)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=cjnmsoJavj0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]As Branquelas[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=cjnmsoJavj0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]As Branquelas[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B363EEE923BF399CC494321CD50C97FBF22852$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Branquelas - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FBE716D9A5C573BB46A74679AEBE83B3121C954$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Branquelas - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-As.Branquelas.2004.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Branquelas - HD DUB[/B][/COLOR]</link>				
@@ -48,7 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Como Ser Muito Ruim (2018) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=u_vHwdlslYU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Como Ser Muito Ruim[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=u_vHwdlslYU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Como Ser Muito Ruim[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Meine.Teuflisch.Gute.Freundin.2018.HD.LEGFIX.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Como Ser Muito Ruim - HD LEG-FIX[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uz0NeJCLnWUNkzeL0bV2hfpbydk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mcpzssHzwDJhDgQ4hrAfQN5528X.jpg</fanart>
@@ -86,7 +86,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Dona Flor e Seus Dois Maridos (2017)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=g1fbaBJ6x5w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dona Flor e Seus Dois Maridos[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=g1fbaBJ6x5w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dona Flor e Seus Dois Maridos[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:333f82b7322adae9742d94926f0263cb0b89e31f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Dona Flor e Seus Dois Maridos - HD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-D.Flor.e.Seus.Dois.Maridos.2018.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Dona Flor e Seus Dois Maridos - HD DUB[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/z5ORYHcyxuvL7BRInMA8Ly1bV7N.jpg</thumbnail>				
@@ -114,7 +114,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Ela é Demais Pra Mim (2010)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=t7szppxwSBw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Ela e Demais Pra Mim [/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=t7szppxwSBw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Ela e Demais Pra Mim [/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb540cac0912ccab281dc9c9a455dc16b028cfed$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ela e Demais Pra Mim - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9a2860b82ebbc08b25d7adcf7a342e58a1ecfa7$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ela e Demais Pra Mim - FHD DUAL[/B][/COLOR]</link>				
 				
@@ -144,7 +144,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Fé Demais não Cheira Bem (1992)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=rP6VDQ2J3QM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem [/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=rP6VDQ2J3QM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem [/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4kkuddjhep7gwtdmucokztjixjks6url$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - HD DUB[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27683cc18606a832793557db7609aa3a558af63f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - FHD LEG[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Fe.Demais.Nao%20Cheira%20Bem.1992.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - DUB - LEGFIX[/B][/COLOR]</link>				
@@ -233,7 +233,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Meu Cachorro Skip (2000)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=NtS1kDW8PEo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Meu Cachorro Skip[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=NtS1kDW8PEo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Meu Cachorro Skip[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Meu.Cachorro.Skip.2000.HD.DUB).mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Meu Cachorro Skip - DUB - LEGFIX[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/kxMPlfp18Q7h8iCcY4kvh9gkP8U.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/26EH8Odu5OEycuZ0U052pBCE08Z.jpg</fanart>				
@@ -252,7 +252,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Os Três Patetas (2012)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=BJkJXmBV_8M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Tres Patetas[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=BJkJXmBV_8M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Tres Patetas[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65b0cf231632afbf25a33967760e8520fb8842a1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Tres Patetas - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62f03c0d115737cc6bd50e628aa7d87c17299102$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Tres Patetas - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Os.Tres.Patetas.2012.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Tres Patetas - FHD DUB[/B][/COLOR]</link>				
@@ -269,7 +269,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Para Wong Foo, Obrigado por Tudo! Julie Newmar (1995) [/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=N0324KvZc7M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Para Wong Foo, Obrigado por Tudo [/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=N0324KvZc7M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Para Wong Foo, Obrigado por Tudo [/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-To.Wong.Foo.Thanks.For.Everything.1995.FHD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Para Wong Foo, Obrigado por Tudo  - FHD - DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-To.Wong.Foo.Thanks.For.Everything.1995.SD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Para Wong Foo, Obrigado por Tudo  - SD DUB [/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/yWVWQXESEkT2Yov3I9PmSpIc6OM.jpg</thumbnail>				
@@ -293,7 +293,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Se Meu Fusca Falasse (1968)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=g56x2VLkiTs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Se Meu Fusca Falasse[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=g56x2VLkiTs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Se Meu Fusca Falasse[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:594801a5cd13374cb7a997bfefab881362ce1dfd$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Se Meu Fusca Falasse - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cbd3007e5851693726cd6b06643944dc94cbde3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Se Meu Fusca Falasse - FHD LEG[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Herbie.Se.Meu.Fusca.Falasse.1968.SD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Se Meu Fusca Falasse - SD DUB[/B][/COLOR]</link>				
@@ -306,7 +306,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]Sob Suspeita (2006)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=tjlkibbkK6w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Suspeita[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=tjlkibbkK6w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Suspeita[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Sob.Suspeita.2006.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sob Suspeita - HD DUB[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/8M0dkX7jOor7exKor1txoUl9Ynu.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/4aAmGZrR15CnVU0VjVuzMHNQ2eZ.jpg</fanart>				
@@ -387,27 +387,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Z"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
-							
-				
+											
 <item>				
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>				
 <title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>				
 <title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
