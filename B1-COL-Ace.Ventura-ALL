@@ -1,16 +1,16 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 	
 <item>	
 <title>[COLOR white][B] Ace Ventura: Um Detetive Diferente (1994) [/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=ZGlFA-miRLw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ace Ventura: Um Detetive Diferente[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=ZGlFA-miRLw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ace Ventura: Um Detetive Diferente[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DFAC14DF486A734B11B24FFAD6AD65C8CBFF9AC7$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ace Ventura: Um Detetive Diferente - HD DUAL[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6734EB1F12B1112709A1401D86FB8D1AF3CD0684$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ace Ventura: Um Detetive Diferente - FHD DUAL[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Ace.Ventura/LS-Ace.Ventura.1.1994.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Ace Ventura: Um Detetive Diferente - FHD DUB[/B][/COLOR]</link>	
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]Ace Ventura 2 - Um Maluco na África (1995)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=YG28rBUkgf8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ace Ventura 2 - Um Maluco na Africa[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=YG28rBUkgf8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Ace Ventura 2 - Um Maluco na Africa[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0485C82D1EFBAD70B1467AF8F6166BA5FDC0318C$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ace Ventura 2 - Um Maluco na Africa - HD DUAL [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9BFB814CEFDEAA5132DB8134B3B4DD19E93E2FB6$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Ace Ventura 2 - Um Maluco na Africa - FHD DUAL[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Ace.Ventura/LS-Ace.Ventura.2.1995.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Ace Ventura 2 - Um Maluco na Africa - FHD DUB[/B][/COLOR]</link>	
@@ -34,25 +34,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 	
