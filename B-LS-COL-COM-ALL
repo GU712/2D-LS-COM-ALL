@@ -48,7 +48,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "E"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]Elvis Presley (36 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B2-COL-Elvis.Presley-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/6YzYARfQO9a2mCEXNhLFuqKMAW6.jpg</thumbnail>
