@@ -24,7 +24,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B1-COL-Ace.Ventura-ALL</externallink>
 <thumbnail>https://i.ibb.co/0ncqPhM/COL-ACEVENT-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/72Wz5CZ/COL-ACEVENT-FAN-ALL.png</fanart>
-<info>Assista a coleção Ace Ventura. 
+<info>Assista a coleção 
+Ace Ventura. 
 [COLOR orange][B]COMÉDIA[/B][/COLOR]
 [COLOR orange][B]02 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 1994 a 1994[/B][/COLOR]</info>
@@ -52,9 +53,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Elvis Presley (36 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B2-COL-Elvis.Presley-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/6YzYARfQO9a2mCEXNhLFuqKMAW6.jpg</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>Assista a coleção Elvis Presley. 
+<thumbnail>https://i.ibb.co/gPLYPkk/COL-ELVIS-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/nQvMjXT/COL-ELVIS-FAN-ALL.png</fanart>
+<info>Assista a coleção 
+Elvis Presley. 
 [COLOR orange][B]COMÉDIA[/B][/COLOR]
 [COLOR orange][B]36 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 1957 a 2005[/B][/COLOR]</info>
@@ -92,7 +94,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Mazzaropi (34 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B3-COL-Mazzaropi-ALL</externallink>
+<thumbnail>https://i.ibb.co/PWDzbJ4/COL-MAZZAROPI-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/30GjBLG/COL-MAZZAROPI-FAN-ALL.png</fanart>
+<info>Assista a coleção 
+Mazzaropi. 
+[COLOR orange][B]COMÉDIA[/B][/COLOR]
+[COLOR orange][B]34 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1952 a 1980[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "N"				
