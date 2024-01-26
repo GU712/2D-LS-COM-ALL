@@ -1,101 +1,309 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Família Dinossauros[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=3HURsCrwyJ0</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/tmho9KQniTBvsPfJMn60CJQ3akM.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>COMÉDIA</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Família Dinossauros (1991) - COMPLETA - SD DUAL[/B][/COLOR]</title>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbb2874dbea8d98b00a88ae8fd15556a2bc8897</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/6atMLXfiO0Tgbkv2zvqZ5nDVP2S.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>		
-<info>Conheça os Silva Sauro, a família mais engraçada de 60 milhões de anos. Eles são dinossauros, vivendo uma vida boa em sessenta milhões e três a.C. </info>		
-<genre>COMÉDIA</genre>		
-</item>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Família Dinossauros (1991) - T01 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 05 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Poderoso Megalossauro [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Dansa do Acasalamento [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Dia do Arremesso [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Grande Duelo [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Dia do Uivo [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/6atMLXfiO0Tgbkv2zvqZ5nDVP2S.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>		
-<info>Conheça os Silva Sauro, a família mais engraçada de 60 milhões de anos. Eles são dinossauros, vivendo uma vida boa em sessenta milhões e três a.C. </info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Família Dinossauros (1992) - T02 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 24  EPs[/B][/COLOR]</link>		
-		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>		
-<info>Conheça os Silva Sauro, a família mais engraçada de 60 milhões de anos. Eles são dinossauros, vivendo uma vida boa em sessenta milhões e três a.C. </info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Família Dinossauros (1993) - T03 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 22 EPs[/B][/COLOR]</link>		
-		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>		
-<info>Conheça os Silva Sauro, a família mais engraçada de 60 milhões de anos. Eles são dinossauros, vivendo uma vida boa em sessenta milhões e três a.C. </info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Família Dinossauros (1994) - T04 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 14 EPs[/B][/COLOR]</link>		
-		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>		
-<info>Conheça os Silva Sauro, a família mais engraçada de 60 milhões de anos. Eles são dinossauros, vivendo uma vida boa em sessenta milhões e três a.C. </info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-		
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (1991) 05 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/6atMLXfiO0Tgbkv2zvqZ5nDVP2S.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O Poderoso Megalossauro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6atMLXfiO0Tgbkv2zvqZ5nDVP2S.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]A Dança do Acasalamento[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6atMLXfiO0Tgbkv2zvqZ5nDVP2S.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Dia do Arremesso[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6atMLXfiO0Tgbkv2zvqZ5nDVP2S.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]O Grande Duelo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6atMLXfiO0Tgbkv2zvqZ5nDVP2S.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]O Dia do Uivo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T01/LS-T01E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6atMLXfiO0Tgbkv2zvqZ5nDVP2S.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (1991) 24 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]A Criança Dourada[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Desafio entre Famílias[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Carnívoro Não[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]A Cauda de Charlene[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Espécie em Extinção[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]O Empregado do Mês[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Quando a Comida Fica Ruim[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Oportunidades de Carreira[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Solteiro Com Filhos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Como Conquistar as Garotas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]A Troca de Bebês[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]O Dia da Geladeira[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]O Que Harris Sexual Quis Dizer?[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]O Show de Fran[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Fonte de Energia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]A Historia de Dinossauros[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Uma Nova Planta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]A Última Tentação de Zilda[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]A Guerra do Pistache (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E19.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]A Guerra do Pistache (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E20.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]E o Vencedor É[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E21.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]Escrava da Moda[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E22.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Líder da Gangue[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E23.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]WESAYSO Sabe Melhor[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T02/LS-T02E24.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tWafAmyTdCNyBSLM0K26XBNG9yl.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 03 (1992) 22 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]A Natureza Chama[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Censura na TV[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Gênio da TV[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]A Descoberta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Histórias de Terror[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]A Guerra dos Germes[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Fome de Amor[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Licença Para ser Pai[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]O Mundo Redondo de Charlene[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Final de Semana Selvagem[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]O Casamento de Roy[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Steroids a Alto[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Querida, Sinto Falta das Crianças[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Música do Pântano[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]A Dança Indecente[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Se eu Fosse uma Árvore[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Autorização de Residência[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]Nós não Estamos Sozinhos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]Charlene e seus Humanos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E19.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]História dos Dinossauros[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E20.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]Monstros Sob a Cama[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E21.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]Dino, Não Seja um Super Herói![/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T03/LS-T03E22.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/40JMz0glEjRlVrA2MqYx8l1BTSD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 04 (1994) 14 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]O Cheiro de um Réptil[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Na Floresta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Fonte de Energia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Curso por Correspondência[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]A Maior Estória Jamais Vendida[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Conduzindo Miss Zilda[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]A Sorte Grande do Dino[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]As Terríveis Crianças de  Anos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Mudando a Natureza[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Dino e sua Irmã[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Quero Ser Milionário[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Ferias no Parque Temático[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]O Primeiro Emprego de Charlene[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]George Tem que Morrer[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Familia.Dinosauros/T04/LS-T04E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/r9yxCkFsyfvn4Huwrd2Ru5U7XM2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -116,8 +324,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -125,4 +332,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
