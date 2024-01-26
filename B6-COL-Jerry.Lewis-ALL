@@ -1,0 +1,36 @@
+#EXTM3U
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]FILMES JERRY LEWIS[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Farra dos Malandros (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Farra.dos.Malandros.(1954).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Fofoqueiro (1967)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Fofoqueiro.(1967).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Meninao (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Meninao.(1955).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ou Vai ou Racha (1956)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Ou.Vai.ou.Racha.(1956).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Rabo de Foguete (1960)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Rabo.de.Foguete.(1960).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Rir e Viver (1995)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Rir.e.Viver.(1995).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Sofrendo da Bola (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Sofrendo.da.Bola.(1953).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Tres em um Sofa (1966)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Tres.em.um.Sofa.(1966).mkv
+#EXTINF:-1 tvg-logo="CAPA" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Um Golpe das Arabias (1967)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Um.Golpe.das.Arabias.(1967).mkv
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
