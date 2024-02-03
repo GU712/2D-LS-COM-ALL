@@ -3,14 +3,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgwnGWL/COL-JERRY-LEWIS-ICON-ALL.png" ,[COLOR orange][B]Jerry Lewis - filmes[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgwnGWL/COL-JERRY-LEWIS-ICON-ALL.png" ,[COLOR orange][B]Jerry Lewis - Filmes[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/meiRE7aScXd75IV2hmv9hZG03VW.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Barbada do Biruta (1953)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Barbada.do.Biruta.(1953).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/83pJPArXu4sfkeaq9qpsGWt3JcK.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Canoa Furou (1959)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Canoa.Furou.(1959).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9ERKsl3znHr8wSdyL2SiqtFTsbG.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Família Fuleira (1965)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Familia.Fuleira.(1965).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/71E707SujTFdJqiTfglbjVhrEVh.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]A Farra dos Malandros (1954)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/A.Farra.dos.Malandros.(1954).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9voPq8dH2UhBvFQV86eVVzowZvV.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]As loucuras de Jerry Lewis (1983)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/As.loucuras.de.J.L.(1983).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e0k9MvNCoR3wf1HCjwEGzgSg3mj.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Artistas e Modelos (1955)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Artistas.e.Modelos.(1955).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ugPBXv2QnwVopFv0Mc97uAZuoDB.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Bancando a Ama Seca (1958)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Bancando.a.Ama.Seca.(1958).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bS6za8lDFVcd7W2qiCArIS7pBcU.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Boeing Boeing (1965)[/B][/COLOR]
@@ -27,8 +35,12 @@ https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Bamba.do.Reg
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Fofoqueiro.(1967).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jLtx30tHvslCuci0MC2ND7PNSBe.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Meninão (1955)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Meninao.(1955).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mRDVZ9ZWCakjDa8luUxa04cIHvv.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Mocinho Encrenqueiro (1961)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Mocinho.Encrenqueiro.(1961).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rjd7ruysWcOiEskGy0h9hnyKNTv.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Otario (1964)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Otario.(1964).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zDsCV3BpZnfkQADdFlWCuKPQpSn.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Rei do Circo (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Rei.do.Circo.(1954).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ImRuh0jikgcISBSOHsFBFgbHNb.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Rei da comedia (1982)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Rei.da.comedia.(1982).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oM09jCTGXVHxstRG6xIflRHp8Gk.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Rei Do Laço (1956)[/B][/COLOR]
@@ -36,7 +48,7 @@ https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Rei.Do.Laso.
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AkbD04yIkYo1sudzLHVlaZ9lAMe.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Rei dos Mágicos (1958)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Rei.dos.Magicos.(1958).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wgFJlGH4xz5RtXFihndDYz3faeJ.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]O Terror das Mulheres (1961)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Terror.das.Mulheres.(1961).mp4
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/O.Terror.das.Mulheres.(1961).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dhrDOmrWeSe3IQEVasWWMY8HpwI.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ou Vai ou Racha (1956)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Jerry.Lewis/Ou.Vai.ou.Racha.(1956).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9s3zaI2B98vnG68yDFC89vkWz8e.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Rabo de Foguete (1960)[/B][/COLOR]
