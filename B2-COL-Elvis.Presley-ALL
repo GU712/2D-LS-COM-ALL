@@ -3,7 +3,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgwnGWL/COL-JERRY-LEWIS-ICON-ALL.png" ,[COLOR orange][B]Elvis Presley - Filmes[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPLYPkk/COL-ELVIS-ICON-ALL.png" ,[COLOR orange][B]Elvis Presley - Filmes[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -22,13 +22,13 @@ https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Carrossel.de.Emosoes
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zj4wfziY4bUjGNvu8s08juSXtmD.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Cavaleiro Romantico (1965)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Cavaleiro.Romantico.(1965).mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4gPYS258TpFSqBO1N6EvDmNqJsA.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Charro (1969)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Charro.(1969).mkv
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Charro.(1969).mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iH3EZQmqW1W5U8WeiE8ZIOCHVXV.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Com Caipira Não Se Brinca (1964)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Com.Caipira.Nao.Se.Brinca.(1964).mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ioaAp4uv5Wk4warkgJNbLGYo6oy.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Coração Rebelde (1961)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Coracao.Rebelde.(1961).mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rHnfOQQ7CCLmqtYvtqdYnu6MyIR.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Ele e as Três Noviças (1969)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Ele.e.as.Tres.Novisas.(1969).mp4
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Ele.e.as.Tres.Novisas.(1969).mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8qwwp5fOPNXDfaqta5x34nDXEDI.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Elvis é Assim (1970)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Elvis.e.Assim.(1970).mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9iabuDbY2TCer2P4F1GBSsYo2C8.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Elvis e Eu (1988)[/B][/COLOR]
@@ -48,7 +48,7 @@ https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Feitiso.Havaiano.(19
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9534MhbWoH3h4JttddrCqKhvIdL.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Feriado no Harém (1965)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Feriado.no.Harem.(1965).mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pBhd2giMkk9857mfygew6JyZjit.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Garotas e Mais Garotas  (1962)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Garotas.e.Mais.Garotas..(1962).mkv
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Garotas.e.Mais.Garotas.(1962).mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zslRaj04IkzfrtPomJURHuClOqL.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Joe é Muito Vivo (1968)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-CL/Elvis/Joe.e.Muito.Vivo.(1968).mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/A7vhdG0sdz23pTt9eF8ZZZb17cp.jpg" ,[COLOR orange][B]S-LS-2[COLOR yellow] -> [COLOR white]Lindas Encrencas, As Garotas (1969)[/B][/COLOR]
@@ -88,3 +88,4 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
