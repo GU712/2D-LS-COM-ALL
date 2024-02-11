@@ -1,253 +1,585 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=XotHaaYwiIA</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/m3gVwBcBN9VcEJPLxetTJhOPZij.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>COMÉDIA</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente - (2002) - T01 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 13 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Sr. Monk e o Candidato (Parte 1) [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Candidato (Parte 2) [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Sr. Monk e a Medium [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Sr. Monk Encontra Dale, "O Baleia"  [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Parque de Diversoes [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Sr. Monk Vai Para o Sanatorio [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Bilionario Assaltante [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Sr. Monk e a Outra Mulher [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Sr. Monk e o Maratonista [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Sr. Monk Sai de Ferias [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Sr. Monk e o Terremoto [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Sr. Monk e Willie Nelson [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Sr. Monk e o Aviao [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, um pavor de germes e contaminação.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente - (2003) - T02 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 16 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Sr. Monk Volta a Escola [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Mexico [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Jogo [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Circo [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Sr. Monk e o Homem Mais Velho do Mundo [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Teatro [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Suspeito em Coma [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Sr. Monk e o Playboy [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E09.mkv$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Sr. Monk e a 12 Vitima  [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E10.mkv$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Jornaleiro [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E11.mkv$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Sr. Monk e as Tres Tortas [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E12.mkv$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Sr. Monk e o Astro de TV [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E13.mkv$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Sr. Monk e a Vovo Desaparecida [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E14.mkv$nome=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Sr. Monk e a Esposa do Capitao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E15.mkv$nome=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Sr. Monk se Casa [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E16.mkv$nome=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white] Sr. Monk Vai Para a Prisao [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, um pavor de germes e contaminação.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente - (2004) - T03 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 16 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E01.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white] Sr. Monk Vai a Manhattan [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E02.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Quarto do Panico [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E03.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Apagao[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E04.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Sr. Monk e Demitido [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E05.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Sr. Monk e o Chefao da Mafia [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E06.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Sr. Monk e a Desmemoriada [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E07.mkv$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Sr. Monk e a Funcionaria do Mes [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E08.mkv$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Sr. Monk e o Programa de Auditorio [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E09.mkv$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Sr. Monk Toma Seu Remedio [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E10.mkv$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Peixe Japones [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E11.mkv$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Sr. Monk Contra o Cobra [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E12.mkv$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Sr. Monk Vai Para a Floresta [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E13.mkv$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Sr. Monk Fica Preso no Engarrafamento [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E14.mkv$nome=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Sr. Monk Vai a Las Vegas [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E15.mkv$nome=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Sr. Monk e a Eleisao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E16.mkv$nome=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Sr. Monk e o Garoto [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, um pavor de germes e contaminação.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente - (2005) - T04 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 16 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E01.mkv$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Sr. Monk e o Outro Detetive [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E02.mkv$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Sr. Monk Volta Pra Casa [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E03.mkv$nome=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Sr. Monk Fica de Cama [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E04.mkv$nome=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Sr. Monk Vai Para o Escritorio[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E05.mkv$nome=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Sr. Monk Fica Bebado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E06.mkv$nome=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Sr. Monk e Sra. Monk [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E07.mkv$nome=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Casamento [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E08.mkv$nome=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Sr. Monk e o Pequeno Monk [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E09.mkv$nome=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Sr. Monk e o Amigo Oculto [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E10.mkv$nome=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Desfile de Moda [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E11.mkv$nome=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Sr. Monk Bate a Cabesa [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E12.mkv$nome=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Sr. Monk e o Casamento do Capitao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E13.mkv$nome=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Sr. Monk e a Grande Recompensa [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E14.mkv$nome=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Sr. Monk e o Astronauta [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E15.mkv$nome=[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Dentista [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E16.mkv$nome=[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Juri [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, um pavor de germes e contaminação.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente - (2006) - T05 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 16 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E01.mkv$nome=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Sr. Monk e o Ator [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E02.mkv$nome=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Sr. Monk e a Greve dos Lixeiros [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E03.mkv$nome=[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Grande Jogo [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E04.mkv$nome=[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Sr. Monk Fica Cego [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E05.mkv$nome=[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Sr. Monk Investigador Particular [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E06.mkv$nome=[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Sr. Monk e a Reuniao de Turma  [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E07.mkv$nome=[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Sr. Monk Arruma um Novo Psiquiatra [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E08.mkv$nome=[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Sr. Monk Vai a um Concerto de Rock [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E09.mkv$nome=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white] Sr. Monk Encontra seu Pai [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E10.mkv$nome=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Leproso [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E11.mkv$nome=[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Sr. Monk Faz um Amigo [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E12.mkv$nome=[COLOR orange][B]T05E12[COLOR yellow] -> [COLOR white]Sr. Monk ao Seu Dispor [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E13.mkv$nome=[COLOR orange][B]T05E13[COLOR yellow] -> [COLOR white]Sr. Monk Esta no Ar [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E14.mkv$nome=[COLOR orange][B]T05E14[COLOR yellow] -> [COLOR white]Sr. Monk Visita uma Fazenda [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E15.mkv$nome=[COLOR orange][B]T05E15[COLOR yellow] -> [COLOR white] Sr. Monk e o Cara Muito  Muito Morto [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E16.mkv$nome=[COLOR orange][B]T05E16[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Hospital  [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, um pavor de germes e contaminação.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente - (2007) - T06 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 06 - 16 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E01.mkv$nome=[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]Sr. Monk e sua Maior Fan [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E02.mkv$nome=[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Rapper [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E03.mkv$nome=[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Homem Nu [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E04.mkv$nome=[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Sr. Monk e a Pessima Namorada [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E05.mkv$nome=[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]Sr. Monk e os Namorados [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E06.mkv$nome=[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Sr. Monk e o Tesouro Enterrado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E07.mkv$nome=[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Destemido [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E08.mkv$nome=[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]Sr. Monk e o Homem Errado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E09.mkv$nome=[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]Sr. Monk Fica Acordado a Noite Toda [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E10.mkv$nome=[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Homem que Atirou em Papai Noel [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E11.mkv$nome=[COLOR orange][B]T06E11[COLOR yellow] -> [COLOR white]Sr. Monk Entra Para uma Seita [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E12.mkv$nome=[COLOR orange][B]T06E12[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Banco [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E13.mkv$nome=[COLOR orange][B]T06E13[COLOR yellow] -> [COLOR white]Sr. Monk e as Tres Julies [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E14.mkv$nome=[COLOR orange][B]T06E14[COLOR yellow] -> [COLOR white]Sr. Monk Pinta Sua Obra-Prima [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E15.mkv$nome=[COLOR orange][B]T06E15[COLOR yellow] -> [COLOR white]Sr. Monk, o Fugitivo (Parte 1) [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E16.mkv$nome=[COLOR orange][B]T06E16[COLOR yellow] -> [COLOR white]Sr. Monk, o Fugitivo (Parte 2) [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, um pavor de germes e contaminação.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente - (2008) - T07 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 07 - 16 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E01.mkv$nome=[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white]Sr. Monk Compra uma Casa [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E02.mkv$nome=[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Genio [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E03.mkv$nome=[COLOR orange][B]T07E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Caso da Loteria Esportiva [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E04.mkv$nome=[COLOR orange][B]T07E04[COLOR yellow] -> [COLOR white]Sr. Monk no Mundo do Boxe [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E05.mkv$nome=[COLOR orange][B]T07E05[COLOR yellow] -> [COLOR white]Sr. Monk e o Submarino [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E06.mkv$nome=[COLOR orange][B]T07E06[COLOR yellow] -> [COLOR white]Sr. Monk se Apaixona [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E07.mkv$nome=[COLOR orange][B]T07E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Caso 100 [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E08.mkv$nome=[COLOR orange][B]T07E08[COLOR yellow] -> [COLOR white]Sr. Monk Fica Hipnotizado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E09.mkv$nome=[COLOR orange][B]T07E09[COLOR yellow] -> [COLOR white]Sr. Monk e o Milagre [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E10.mkv$nome=[COLOR orange][B]T07E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Outro Irmao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E11.mkv$nome=[COLOR orange][B]T07E11[COLOR yellow] -> [COLOR white]Sr. Monk Sobre Rodas [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E12.mkv$nome=[COLOR orange][B]T07E12[COLOR yellow] -> [COLOR white]Sr. Monk e a Senhora Proxima a Porta [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E13.mkv$nome=[COLOR orange][B]T07E13[COLOR yellow] -> [COLOR white]Sr. Monk e o Jogo [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E14.mkv$nome=[COLOR orange][B]T07E14[COLOR yellow] -> [COLOR white]Sr. Monk e o Valentao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E15.mkv$nome=[COLOR orange][B]T07E15[COLOR yellow] -> [COLOR white]Sr. Monk e o Magico [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E16.mkv$nome=[COLOR orange][B]T07E16[COLOR yellow] -> [COLOR white]Sr. Monk Luta Contra a Prefeitura [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, um pavor de germes e contaminação.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente - (2009) - T08 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 08 - 16 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E01.mkv$nome=[COLOR orange][B]T08E01[COLOR yellow] -> [COLOR white]Sr. Monk e o seu Programa Favorito [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E02.mkv$nome=[COLOR orange][B]T08E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Estrangeiro [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E03.mkv$nome=[COLOR orange][B]T08E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Disco Voador [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E04.mkv$nome=[COLOR orange][B]T08E04[COLOR yellow] -> [COLOR white]Sr. Monk e Outra Pessoa [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E05.mkv$nome=[COLOR orange][B]T08E05[COLOR yellow] -> [COLOR white]Sr. Monk Assume a Posisao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E06.mkv$nome=[COLOR orange][B]T08E06[COLOR yellow] -> [COLOR white]Sr. Monk e o Critico [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E07.mkv$nome=[COLOR orange][B]T08E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Curso de Vudu [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E08.mkv$nome=[COLOR orange][B]T08E08[COLOR yellow] -> [COLOR white]Sr. Monk Vai Ao Grupo De Terapia [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E09.mkv$nome=[COLOR orange][B]T08E09[COLOR yellow] -> [COLOR white]Feliz Aniversario, Sr. Monk [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E10.mkv$nome=[COLOR orange][B]T08E10[COLOR yellow] -> [COLOR white]Sr. Monk e Sharona [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E11.mkv$nome=[COLOR orange][B]T08E11[COLOR yellow] -> [COLOR white]Sr. Monk e o Cachorro [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E12.mkv$nome=[COLOR orange][B]T08E12[COLOR yellow] -> [COLOR white]Sr. Monk Vai Acampar [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E13.mkv$nome=[COLOR orange][B]T08E13[COLOR yellow] -> [COLOR white]Sr. Monk e o Padrinho [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E14.mkv$nome=[COLOR orange][B]T08E14[COLOR yellow] -> [COLOR white]Sr. Monk e o Distintivo [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E15.mkv$nome=[COLOR orange][B]T08E15[COLOR yellow] -> [COLOR white]Sr. Monk e o Fim (Parte 1) [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E16.mkv$nome=[COLOR orange][B]T08E16[COLOR yellow] -> [COLOR white]Sr. Monk e o Fim (Parte 2) [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>		
-<info>Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, um pavor de germes e contaminação.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2002) 13 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Sr. Monk e o Candidato (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Candidato (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Sr. Monk e a Médium[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Sr. Monk Encontra Dale, "O Baleia"[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Parque de Diversões[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Sr. Monk Vai Para o Sanatório[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Bilionário Assaltante[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Sr. Monk e a Outra Mulher[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Sr. Monk e o Maratonista[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Sr. Monk Sai de Férias[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Sr. Monk e o Terremoto[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Sr. Monk e Willie Nelson[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Sr. Monk e o Avião[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T01/LS-T01E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2aVTv1gKmcveHsJ58kH1T4v1uPY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (2003) 16 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Sr. Monk Volta à Escola[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao México[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Jogo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Circo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Sr. Monk e o Homem Mais Velho do Mundo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Teatro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Suspeito em Coma[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Sr. Monk e o Playboy[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Sr. Monk e a 12ª Vítima[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Jornaleiro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Sr. Monk e as Três Tortas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Sr. Monk e o Astro de TV[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Sr. Monk e a Vovó Desaparecida[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Sr. Monk e a Esposa do Capitão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Sr. Monk se Casa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Sr. Monk Vai Para a Prisão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T02/LS-T02E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8rLRnynw4OR1JgNokp1fhimSPd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 03 (2004) 16 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Sr. Monk Vai a Manhattan[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Quarto do Pânico[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Apagão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Sr. Monk é Demitido[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Sr. Monk e o Chefão da Máfia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Sr. Monk e a Desmemoriada[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Sr. Monk e a Funcionária do Mês[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Sr. Monk e o Programa de Auditório[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Sr. Monk Toma Seu Remédio[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Peixe Japonês[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Sr. Monk Contra o Cobra[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Sr. Monk Vai Para a Floresta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Sr. Monk Fica Preso no Engarrafamento[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Sr. Monk Vai a Las Vegas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]Sr. Monk e a Eleição[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Sr. Monk e o Garoto[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T03/LS-T03E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7o4wabTvS9ArhZeVu7CyyzKc7tL.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 04 (2005) 16 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]Sr. Monk e o Outro Detetive[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Sr. Monk Volta Pra Casa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Sr. Monk Fica de Cama[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Sr. Monk Vai Para o Escritório[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Sr. Monk Fica Bêbado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Sr. Monk e Sra. Monk[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Casamento[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]Sr. Monk e o Pequeno Monk[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Sr. Monk e o Amigo Oculto[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Desfile de Moda[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Sr. Monk Bate a Cabeça[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Sr. Monk e o Casamento do Capitão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]Sr. Monk e a Grande Recompensa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]Sr. Monk e o Astronauta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Dentista[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Júri[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T04/LS-T04E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5Qvx5xSDYdgTDYn529uvuyJb2Xx.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 05 (2006) 16 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]Sr. Monk e o Ator[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]Sr. Monk e a Greve dos Lixeiros[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Grande Jogo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]Sr. Monk Fica Cego[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]Sr. Monk, Investigador Particular[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]Sr. Monk e a Reunião de Turma[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E07[COLOR yellow] -> [COLOR white]Sr. Monk Arruma um Novo Psiquiatra[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E08[COLOR yellow] -> [COLOR white]Sr. Monk Vai a um Concerto de Rock[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E09[COLOR yellow] -> [COLOR white]Sr. Monk Encontra seu Pai[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Leproso[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E11[COLOR yellow] -> [COLOR white]Sr. Monk Faz um Amigo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E12[COLOR yellow] -> [COLOR white]Sr. Monk, ao Seu Dispor[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E13[COLOR yellow] -> [COLOR white]Sr. Monk Está no Ar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E14[COLOR yellow] -> [COLOR white]Sr. Monk Visita uma Fazenda[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E15[COLOR yellow] -> [COLOR white]Sr. Monk e o Cara Muito, Muito Morto[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E16[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Hospital[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T05/LS-T05E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0yMk9uPgKnEoDnCg0b7MIrkChY.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 06 (2007) 16 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T06E01[COLOR yellow] -> [COLOR white]Sr. Monk e sua Maior Fã[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Rapper[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Homem Nu[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E04[COLOR yellow] -> [COLOR white]Sr. Monk e a Péssima Namorada[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E05[COLOR yellow] -> [COLOR white]Sr. Monk e os Namorados[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E06[COLOR yellow] -> [COLOR white]Sr. Monk e o Tesouro Enterrado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Destemido[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E08[COLOR yellow] -> [COLOR white]Sr. Monk e o Homem Errado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E09[COLOR yellow] -> [COLOR white]Sr. Monk Fica Acordado a Noite Toda[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Homem que Atirou em Papai Noel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E11[COLOR yellow] -> [COLOR white]Sr. Monk Entra Para uma Seita[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E12[COLOR yellow] -> [COLOR white]Sr. Monk Vai ao Banco[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E13[COLOR yellow] -> [COLOR white]Sr. Monk e as Três Julies[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E14[COLOR yellow] -> [COLOR white]Sr. Monk Pinta Sua Obra-Prima[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E15[COLOR yellow] -> [COLOR white]Sr. Monk, o Fugitivo (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T06E16[COLOR yellow] -> [COLOR white]Sr. Monk, o Fugitivo (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T06/LS-T06E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fP4MrdtKXt5IL6U4ENwLXoeYxVU.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 07 (2008) 16 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T07E01[COLOR yellow] -> [COLOR white]Sr. Monk Compra uma Casa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Gênio[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Caso da Loteria Esportiva[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E04[COLOR yellow] -> [COLOR white]Sr. Monk no Mundo do Boxe[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E05[COLOR yellow] -> [COLOR white]Sr. Monk e o Submarino[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E06[COLOR yellow] -> [COLOR white]Sr. Monk se Apaixona[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Caso [/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E08[COLOR yellow] -> [COLOR white]Sr. Monk Fica Hipnotizado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E09[COLOR yellow] -> [COLOR white]Sr. Monk e o Milagre[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E10[COLOR yellow] -> [COLOR white]Sr. Monk e o Outro Irmão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E11[COLOR yellow] -> [COLOR white]Sr. Monk Sobre Rodas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E12[COLOR yellow] -> [COLOR white]Sr. Monk e a Senhora Próxima a Porta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E13[COLOR yellow] -> [COLOR white]Sr. Monk e o Jogo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E14[COLOR yellow] -> [COLOR white]Sr. Monk e o Valentão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E15[COLOR yellow] -> [COLOR white]Sr. Monk e o Mágico[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T07E16[COLOR yellow] -> [COLOR white]Sr. Monk Luta Contra a Prefeitura[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T07/LS-T07E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xutivNnwkjp5arwbY58zNHxvfSn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 08 (2009) 16 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T08E01[COLOR yellow] -> [COLOR white]Sr. Monk e o seu Programa Favorito[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E02[COLOR yellow] -> [COLOR white]Sr. Monk e o Estrangeiro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E03[COLOR yellow] -> [COLOR white]Sr. Monk e o Disco Voador[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E04[COLOR yellow] -> [COLOR white]Sr. Monk é Outra Pessoa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E05[COLOR yellow] -> [COLOR white]Sr. Monk Assume a Posição[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E06[COLOR yellow] -> [COLOR white]Sr. Monk e o Crítico[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E07[COLOR yellow] -> [COLOR white]Sr. Monk e o Curso de Vudu[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E08[COLOR yellow] -> [COLOR white]Sr. Monk Vai Ao Grupo De Terapia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E09[COLOR yellow] -> [COLOR white]Sr. Monk e um Feliz Aniversário[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E10[COLOR yellow] -> [COLOR white]Sr. Monk e Sharona[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E11[COLOR yellow] -> [COLOR white]Sr. Monk e o Cachorro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E12[COLOR yellow] -> [COLOR white]Sr. Monk Vai Acampar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E13[COLOR yellow] -> [COLOR white]Sr. Monk é o Padrinho[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E14[COLOR yellow] -> [COLOR white]Sr. Monk e o Distintivo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E15[COLOR yellow] -> [COLOR white]Sr. Monk e o Fim (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T08E16[COLOR yellow] -> [COLOR white]Sr. Monk e o Fim (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Monk/T08/LS-T08E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n2WUwjJyB3meYF1LHTOs9SYAYFB.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -268,8 +600,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
