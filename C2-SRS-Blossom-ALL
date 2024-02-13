@@ -1,177 +1,441 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Blossom[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=rkDUNH9wM_0</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uyCMnDi5Je8shCIAmcWZwZzkPtD.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>COMÉDIA</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Blossom (1990) - T01 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 12 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Blossom floresce [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E02.avi$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O protetor da minha irma [/B][/COLOR]</link> 		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]AUSENTE [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Quem e que manda aqui[/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Sexo,mentiras e  adolescencia [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Eu nao tenho amiga [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Lembransas e memoria [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E08.avi$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Amor resistente [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Paizao dificil [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Que noite [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Confusao escolar [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Pequeno dividento do papai [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O amor e uma droga [/B][/COLOR]</link> 		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/ssxRNFtBRyDpSTf1LFCY7uUtBqs.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uyCMnDi5Je8shCIAmcWZwZzkPtD.jpg</fanart>		
-<info>Blossom é uma garota muito inteligente e sarcástica, que ainda mora com seu pai e seus dois irmãos. A história começa quando sua mãe larga tudo para viver sua própria vida, e seu pai começa a tentar reestruturar a família.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Blossom (1991) - T02 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Segunda Base[/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E02.avi$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]La vem o Buz [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E03.avi$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Conjunto [/B][/COLOR]</link> 		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E04.avi$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]xxxxxxxxxxxx [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E05.avi$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Honra[/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E06.avi$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Para dizer a verdade[/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E07.avi$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Intervensao [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E08.avi$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Corra para a fronteira[/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E09.avi$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Rockumentario [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E10.avi$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Expectativas [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E11.avi$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Nao Va para Casa [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E12.avi$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Esta Casa Esta Velha [/B][/COLOR]</link> 		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E13.avi$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]XXXXXXXXXXXXX [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E14.avi$nome=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]O Exame [/B][/COLOR]</link> 		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E15.avi$nome=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]XXXXXXXXXXX [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E16.avi$nome=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Tres Horas e Esta Um Inferno [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E17.avi$nome=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Os Perdedores Ganham [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E18.avi$nome=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]A Carta [/B][/COLOR]</link> 		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E19.avi$nome=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]XXXXXXXXXXXXX [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E20.avi$nome=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]Voce Tem Que Se Lembrar [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E21.avi$nome=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Convidados da Casa [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E22.avi$nome=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]Lamentasoes e Delirios [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E23.avi$nome=[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]Educasao de Motorista [/B][/COLOR]</link> 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E24.avi$nome=[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]Febre De Primavera [/B][/COLOR]</link> 		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uyCMnDi5Je8shCIAmcWZwZzkPtD.jpg</fanart>		
-<info>Blossom é uma garota muito inteligente e sarcástica, que ainda mora com seu pai e seus dois irmãos. A história começa quando sua mãe larga tudo para viver sua própria vida, e seu pai começa a tentar reestruturar a família.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Blossom (1992) - T03 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 20 EPs[/B][/COLOR]</link>		
-		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E01.avi$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E02.avi$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Querida Mamae [/B][/COLOR]</link>		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E03.avi$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E04.avi$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Qual e o Preso do Amor [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E05.avi$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]As Cronicas de Joe[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E06.avi$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Criansas [/B][/COLOR]</link>		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E07.avi$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E08.avi$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Eu Matei Chico Barranca [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E09.avi$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Festa De Halloween [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E10.avi$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Falcatrua do Presidente [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E11.avi$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Minha Garota [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E12.avi$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Festa Da Fraternidade [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E13.avi$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Trocando de Religiao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E14.avi$nome=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Rubi [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E15.avi$nome=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]A Ultima Risada [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E16.avi$nome=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Tempo [/B][/COLOR]</link>		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E17.avi$nome=[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E18.avi$nome=[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Trem Misterioso [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E19.avi$nome=[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]Dos Ratos e dos Homens [/B][/COLOR]</link>		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E20.avi$nome=[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E21.avi$nome=[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E22.avi$nome=[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]Acabou a Excitasao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E23.avi$nome=[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white]Voce fez o que [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E24.avi$nome=[COLOR orange][B]T03E24[COLOR yellow] -> [COLOR white]Comedia de Situasao [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E25.avi$nome=[COLOR orange][B]T03E25[COLOR yellow] -> [COLOR white]Fome [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uyCMnDi5Je8shCIAmcWZwZzkPtD.jpg</fanart>		
-<info>Blossom é uma garota muito inteligente e sarcástica, que ainda mora com seu pai e seus dois irmãos. A história começa quando sua mãe larga tudo para viver sua própria vida, e seu pai começa a tentar reestruturar a família.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Blossom (1993) - T04 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 20 EPs[/B][/COLOR]</link>		
-		
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E01.avi$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Blossom em Paris - Parte 1 [/B][/COLOR]</link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E02.avi$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Blossom em Paris - Parte 2 [/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E03.avi$nome=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Blossom em Paris - Parte 3 [/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E04.avi$nome=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Blossom em Paris - Parte 4 [/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E05.avi$nome=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Transisoes [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E06.avi$nome=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Beijar e Contar [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E07.avi$nome=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Six e Sonny [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E08.avi$nome=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]O Dilema [/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E09.avi$nome=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]38 Especial [/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E10.avi$nome=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]A Hora de Cinquenta Minutos [/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E11.avi$nome=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Romance Verdadeiro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E12.avi$nome=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Falando Sobre Sexo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E13.avi$nome=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Grandes Acontecimentos - Parte 1 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E14.avi$nome=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Grandes Acontecimentos - Parte 2 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E15.avi$nome=[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]A Copiadora [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E16.avi$nome=[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]O Afortunado [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E17.avi$nome=[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]Carne [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E18.avi$nome=[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]Encontro Duplo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E19.avi$nome=[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white]A Praia - Parte 1 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E20.avi$nome=[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]A Praia - Parte 2 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E21.avi$nome=[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white]Uma Pequena Ajuda de Meus Amigos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E22.avi$nome=[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white]Nossas Cenas Favoritas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E23.avi$nome=[COLOR orange][B]T04E23[COLOR yellow] -> [COLOR white]A Depressao de Blossom [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E24.avi$nome=[COLOR orange][B]T04E24[COLOR yellow] -> [COLOR white]Sexo, Mentiras e a Sra. Peterson [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E25.avi$nome=[COLOR orange][B]T04E25[COLOR yellow] -> [COLOR white]Sete Pecados Capitais [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E26.avi$nome=[COLOR orange][B]T04E26[COLOR yellow] -> [COLOR white]Acerto de Contas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E27.avi$nome=[COLOR orange][B]T04E27[COLOR yellow] -> [COLOR white]O Ultimo Tango [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E28.avi$nome=[COLOR orange][B]T04E28[COLOR yellow] -> [COLOR white]Graduasao [/B][/COLOR]</link>
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uyCMnDi5Je8shCIAmcWZwZzkPtD.jpg</fanart>		
-<info>Blossom é uma garota muito inteligente e sarcástica, que ainda mora com seu pai e seus dois irmãos. A história começa quando sua mãe larga tudo para viver sua própria vida, e seu pai começa a tentar reestruturar a família.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Blossom (1994) - T05 - SD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 20 EPs[/B][/COLOR]</link>		
-		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uyCMnDi5Je8shCIAmcWZwZzkPtD.jpg</fanart>		
-<info>Blossom é uma garota muito inteligente e sarcástica, que ainda mora com seu pai e seus dois irmãos. A história começa quando sua mãe larga tudo para viver sua própria vida, e seu pai começa a tentar reestruturar a família.</info>		
-<genre>COMÉDIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (1990) 00 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/ssxRNFtBRyDpSTf1LFCY7uUtBqs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Blossom Floresce[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ssxRNFtBRyDpSTf1LFCY7uUtBqs.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Protetor da Minha Irmã[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E02.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR red][B]LS-T01E03[COLOR yellow] -> [COLOR white]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E03.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Quem é que manda aqui[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E04.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Sexo, Mentiras e Adolescentes[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E05.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Eu não tenho Amiga[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E06.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Lembranças e Memórias[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E07.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Amor Resistente[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E08.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Paizão Difícil[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E09.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Que Noite[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E10.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Confusão Escolar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E11.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]O Pequeno Dividendo Do Papai[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E12.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]O Amor é Uma Droga[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T01/LS-T01E13.mkv</link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (1991) 00 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Segunda Base[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Lá vem o Buz[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]O Conjunto[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Honra[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Para dizer a verdade[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Intervenção[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Corra para a fronteira[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Rockumentário[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Expectativas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Não Vá para Casa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Esta Casa Está Velha[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]O Exame[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Três Horas e Está Um Inferno[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Os Perdedores Ganham[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]A Carta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E19.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]Você Tem Que Se Lembrar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E20.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]Convidados da Casa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E21.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]Lamentações e Delirios[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E22.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Educação de Motorista[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E23.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]Febre De Primavera[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T02/LS-T02E24.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zHKvcy9kRX3zqhEAs4Zh9MVXOyr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 03 (1992) 00 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Querida Mamae[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Qual é o Preço do Amor[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]As Cronicas de Joe[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Crianças[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Eu Matei Chico Barranca[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Festa De Halloween[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Falcatrua do Presidente[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Minha Garota[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Festa Da Fraternidade[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Trocando de Religião[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Rubi[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]A Última Risada[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Tempo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]Trem Misterioso[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]Dos Ratos e dos Homens[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E19.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E20.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]Vista-se em Cima[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E21.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]Acabou a Excitação[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E22.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E23[COLOR yellow] -> [COLOR white]Você fez o que[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E23.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E24[COLOR yellow] -> [COLOR white]Comedia de Situação[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E24.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E25[COLOR yellow] -> [COLOR white]Fome[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T03/LS-T03E25.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7c4l7TJFD0XWmdbJw8KQW1ejCP5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 04 (1993) 00 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Beijar e Contar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Six e Sonny[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]Dilema[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR red]Indisponivel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Falando Sobre Sexo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]Grandes Acontecimentos (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]Grandes Acontecimentos (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]A Copiadora[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]O Afortunado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]Carne[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E18[COLOR yellow] -> [COLOR white]Encontro Duplo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]A Praia (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E19.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]A Praia (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E20.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E21[COLOR yellow] -> [COLOR white]Uma Pequena Ajuda de Meus Amigos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E21.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E22[COLOR yellow] -> [COLOR white]Nossas Cenas Favoritas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E22.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E23[COLOR yellow] -> [COLOR white]A Depressão de Blossom[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E23.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E24[COLOR yellow] -> [COLOR white]Sexo, Mentiras e Sra. Peterson[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E24.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E25[COLOR yellow] -> [COLOR white]Pecados Capitais[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E25.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E26[COLOR yellow] -> [COLOR white]Acerto de Contas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E26.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E27[COLOR yellow] -> [COLOR white]O Último Tango[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E27.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E28[COLOR yellow] -> [COLOR white]Graduação[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Blosson/T04/LS-T04E28.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xd6lpn3Vt9zqX1zKjj7hllkgpjN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 05 (1994) 06 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/rFUDwbCptLtDq2xZp6siBt9nab8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]Uma Nova Vida (Parte 1)Em Espanhol[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Blosson/T05/LS-T05E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rFUDwbCptLtDq2xZp6siBt9nab8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]Uma Nova Vida (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Blosson/T05/LS-T05E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rFUDwbCptLtDq2xZp6siBt9nab8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]Amor de cachorro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Blosson/T05/LS-T05E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rFUDwbCptLtDq2xZp6siBt9nab8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]Seu Novo Mundo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Blosson/T05/LS-T05E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rFUDwbCptLtDq2xZp6siBt9nab8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]O Casamento[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Blosson/T05/LS-T05E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rFUDwbCptLtDq2xZp6siBt9nab8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]Escrevendo os Erros[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Blosson/T05/LS-T05E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rFUDwbCptLtDq2xZp6siBt9nab8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -192,8 +456,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -202,4 +465,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-				
