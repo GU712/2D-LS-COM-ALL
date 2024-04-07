@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ace Ventura (Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D2A-FLM-Ace.Ventura-ALL</externallink>
-<thumbnail>https://i.ibb.co/0ncqPhM/COL-ACEVENT-ICON-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/d4XQNZ9/COL-ACEVENT-ICON-FLM-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/72Wz5CZ/COL-ACEVENT-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção de filmes: 
 [B]Ace Ventura
@@ -30,17 +30,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ace Ventura (0000-0000) - INCOMPLETA - ATUALIZANDO[/B][/COLOR]</name>
-<externallink><LINKRAWPAGEALVO></externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ace Ventura (1995-1999) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D2C-DSH-Ace.Ventura-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/zyuF8kTPpgp41PXLFeq2MzAVNDJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4EDRjZAxcqwVv4Qj4ZoNbA1S8U1.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Ace Ventura
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]0000 a 0000
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995 a 1999
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]00 TEMPs - 000 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 41 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ace Ventura é um atrapalhado mas competente detetive particular, especializado em casos que envolvam quaisquer tipo de animais.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -156,5 +156,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
