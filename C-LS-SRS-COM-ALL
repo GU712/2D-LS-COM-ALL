@@ -1,21 +1,49 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C-LS-SRS-COM-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A02-SEL-SRS-LETRA-A-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (2012-2016) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B9B2-SRS-A.Bela.e.a.Fera.2012-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/gAhKTNCLSInPeJgweYCv21VlmVA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9SrsT4qw7UVodI20SMYyfGHoGKz.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Bela e a Fera
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2012 a 2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 70 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante uma investigação, a detetive Catherine Chandler acaba reencontrando Vincent Keller, um homem que a salvou de um ataque anos antes. Mas agora Keller sofre de uma doença que o transforma em monstro quando se irrita.
+[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NUMERAL			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "A"				
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (1987-1989) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B9B1-SRS-A.Bela.e.a.Fera.1987-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/vpSiTl7U1NKdDHroFUqCBQgqd2q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mUve0t93bhQyjbpH8JBtIbnHR6V.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Bela e a Fera
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1987 a 1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 56 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Catherine é uma mulher rica que pensa que sua vida não tem significado além de qualquer coisa superficial. Vincent é de um mundo diferente. Ele mora abaixo da cidade em túneis que foram esquecidos. Ele deve ficar oculto por causa de sua aparência.
+[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
@@ -53,7 +81,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-			
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Escolinha do Golias (1990-1997) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C40-SRS-A.Escolinha.do.Golias-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/z1N7zVjUucICckvNXT0qohoKfxI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cvNoeKtzkkYdbnbpccPlHNz58BE.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Escolinha do Golias
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1990 a 1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 81  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O professor Caliostro tem o difícil papel de colocar ordem em uma sala de aula muito louca. Pacífico e os demais alunos deixam o professor maluco com muitas piadas e brincadeiras.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]A Feiticeira (1964-1971) - COMPLETA[/B][/COLOR]</name>
@@ -75,15 +121,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Gata e o Rato (1985-1988) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C23-SRS-A.Gata.e.o.Rato-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/1yPFfKazpHRgzxZKrcfMIUcaREM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/mSn5IrrLB6drP1gfwydYAakZG7Y.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/C23-SRS-A.Gata.e.o.Rato.1985-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/lrx6v9iD7WWkzkYMCvikvG3DIFp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Ivbxfhi2RCrO9BiQwS53nCRLAo.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]A Gata e o Rato
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985 a 1988
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 67 EPs
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 66 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Maddie Hayes é uma ex-modelo de sucesso, mas, depois de levar um golpe de seu contador, acaba tendo quase todos os seus bens confiscados, exceto a agência de detetives Blue Moon - cuja existência ela desconhecia. Ela é obrigada a trabalhar lá ao lado de David Addisson, um detetive metido a engraçadinho e sedutor. 
 [/COLOR]</info>
 </channel>
@@ -92,35 +138,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]A Noviça Voadora (1967-1969) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C50-COL-A.Novisa.Voadora.1967-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/4LkhFq3yKKXvv81pkbkPqPfYMeh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/dwhPxxkcIxJ4EMJt3OiInsk4tJl.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]A Noviça Voadora
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1969
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 82 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Noviça Voadora mostrava a história da irmã Bertrille, uma noviça exuberante que levava muita alegria ao antigo convento de San Tanco, situado perto de San Juan, Porto Rico. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Agente 86 (1965-1969) COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C15-SRS-Agente.86-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/czVnqeZZVBoniOO3iYB3nSvuSWO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6ahKNfvLGWYDlhUfSagJfClXkoi.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Agente 86
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Guerra dos Mundos (2019) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D05B-SRS-Guerra.dos.Mundos-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/68uDzEAtjM9NN8DloRXdZ9t4I05.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xLh6Lkj0J5d4new50BxDHEB7wjj.jpg</fanart>
+<info>[COLOR white]Assista aqui a série:
+[B]A Guerra dos Mundos
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1969
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 138 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mundo da Espionagem não seria tão engraçado sem o AGENTE 86.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 03 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na Inglaterra Eduardiana, George e sua parceira Amy tentam desafiar a sociedade e começar uma vida juntos, enquanto enfrentam o terror crescente de uma invasão alienígena, lutando por suas vidas contra um inimigo além de sua compreensão.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -146,17 +174,269 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Escolinha do Golias (1990-1997) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C40-SRS-A.Escolinha.do.Golias-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/z1N7zVjUucICckvNXT0qohoKfxI.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/cvNoeKtzkkYdbnbpccPlHNz58BE.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Grande Ilusão (2024)  - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C55-SRS-A.Grande.Ilusao.2024-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/Ertv4WLEyHgi8zN4ldOKgPcGAZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v9OgLxYCq5newNdtF8dQAFENs4l.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]A Escolinha do Golias
+[B]Nomealvo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A ex-soldada Maya vê imagens do marido assassinado em uma câmera-espiã e descobre uma conspiração fatal há muito tempo em curso.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Maldição da Residência Hill (2019) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C1-SRS-A.Maldisao.Res.Hill-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg</thumbnail>																																		
+<fanart>https://www.themoviedb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Maldição da Residência Hill
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 10 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Entre o passado e o presente, uma família dividida confronta memórias assustadoras do antigo lar e dos eventos aterrorizantes que os expulsaram de lá.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Mulher Biônica (1976-1977) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D01B1-SRS-Mulher.Bionica-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/iUN8qOF0iH3QtCt7dL53ZKFFFJt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beQgTmzsl15EhqWORH4wmEvIsyu.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Mulher Biônica
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 60 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Depois de se recuperar completamente de sua quase mortal rejeição biônica, Jaime Sommers, o primeiro ciborgue feminino, é designado para missões de espionagem por conta própria.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Nova Super Máquina (2008) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C20-A.Nova.Super.Maquina-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/63Sp9y9X0P9LTMZVCeg96uAYJeW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Nova Super Máquina
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 17 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. 
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]A Noviça Voadora (1967-1969) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C50-COL-A.Novisa.Voadora.1967-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/4LkhFq3yKKXvv81pkbkPqPfYMeh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dwhPxxkcIxJ4EMJt3OiInsk4tJl.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Noviça Voadora
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1990 a 1997
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1969
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 81  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O professor Caliostro tem o difícil papel de colocar ordem em uma sala de aula muito louca. Pacífico e os demais alunos deixam o professor maluco com muitas piadas e brincadeiras.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 82 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Noviça Voadora mostrava a história da irmã Bertrille, uma noviça exuberante que levava muita alegria ao antigo convento de San Tanco, situado perto de San Juan, Porto Rico. 
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Poderosa Ísis (1975-1976) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C12-SRS-A.Poderosa.Isis-1975-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/nQZY51Up4PccqdbZmwI6eyxGTGC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/igf6KmOFEFu1ripWMyAGWxX9BM7.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Poderosa Ísis
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1976
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 22 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Andrea Thomas é uma professora de ciências e arqueóloga amadora que encontra um amuleto que teria pertencido a uma rainha egípcia. De posse do amuleto, Andrea pronuncia as palavras "Poderosa Ísis" e se transforma em uma super-heroína com incríveis poderes.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Sete Palmos (2001-2005) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C45-SRS-A.Sete.Palmos-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/mV1HOZCy4JHzoWBQkZbbTK5hXOL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eM2Qhfz5X9ib8e1KxU47p188Cqa.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Sete Palmos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2001 a 2005
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 63 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nate, não retorna à casa para as comemorações de final de ano, a família deve aprender a lidar com o próprio luto, enquanto decide como seguir em frente com o negócio da família.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Super Máquina (1982-1985) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C1-SRS-A.Super.Maquina-OLD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/egcnrKBq0N3VQMuOY52BZCHU8YG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lcvImPWyoEd3Jr3W5sd5jxAw1PZ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Super Máquina
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1982 a 1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 90  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Michael Knight, e cria o carro K.I.T.T., que possui avançada inteligência artificial. O novo Michael e a Super Máquina tornam-se, então, grandes defensores da justiça nesta memorável série dos anos 1980.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Volta ao Mundo em 80 Dias (2021)  - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C6-SRS-A.Volta.ao.Mundo.em.80.Dias.2021-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/naZrH2DhxgN7zeswmPybktGZ8nb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x340RDN6q1tKG81OG684u70ZQMk.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Volta ao Mundo em 80 Dias
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O cavalheiro aventureiro Phileas Fogg parte numa busca para viajar à volta do mundo e regressar a casa no prazo de 80 dias.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Agente 86 (1965-1969) COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C15-SRS-Agente.86-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/czVnqeZZVBoniOO3iYB3nSvuSWO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ahKNfvLGWYDlhUfSagJfClXkoi.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Agente 86
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 138 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mundo da Espionagem não seria tão engraçado sem o AGENTE 86.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Águia de Fogo (1984-1987) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C6-SRS-Aguia.de.Fogo-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/uSlnBIJsCkfXcHP7P9cOzmBIk4t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Águia de Fogo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984 a 1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 70 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ao retornar da Líbia, após derrotar o criador do Águia de Fogo, Hawke e Dominic passam a usar o helicóptero como uma espécie de supermáquina alada para combater o crime.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1989-2013) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D3B1-SRS-A.C.Poirot-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/KX69tBuobsjtr9ea1J5OxtvIV1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Agatha Christie's Poirot
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white](1989-2013)
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]00 TEMPs - 000 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Baseado na obra de Agatha Christie, a série acompanha as aventuras do detetive belga Hercule Poirot, que tenta desvendar casos de misteriosos assassinatos.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Além da Imaginação (1959-1964) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C9-SRS-Alem.da.Imaginasao.1959-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/coWkN4uvxP41T0JFZHttUhS2PBj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w6ucJvcukwkuI3dnh4Yn889byf5.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Além da Imaginação
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1959 a 1964
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 156  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A clássica série de TV Além da Imaginação (The Twilight Zone), que explora o misterioso, o desconhecido e o inesquecível, levará você para os mais profundos reinos da imaginação. Em suas lendárias histórias, você conferirá o melhor da ficção científica e do terror de todos os tempos
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Além da Imaginação (2002) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C38-SRS-Alem.da.Imaginasao.2002-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/vvQKVhglnYywJbH0q19XlKlTex6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4rihVRGpNXXCro7ClvwQFDpQyNs.jpg</fanart>
+<info>[COLOR white]Assista aqui a série  o desenho a novela: 
+[B]Além da Imaginação
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2002
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 43 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Forest Whitaker assume o papel de narrador que outrora era ocupado por Rod Serling. Uma série antológica, com episódios de apenas meia hora de duração que nos apresenta o estranho, o bizarro, o inesperado!
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]All of Us Are Dead (2022) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D4B1-SRS-All.of.Us.Are.Dead.2022-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/8jUlLqqPVkO7tRtZsGYjWteJJeR.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/8Xs20y8gFR0W9u8Yy9NKdpZtSu7.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]All of Us Are Dead (2022
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 12 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma epidemia mortal surge em uma escola. Encurralados, os alunos só tem uma opção: lutar com todas as forças para não virarem zumbis.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -182,6 +462,114 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]Altered Carbon (2018-2020) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C8-SRS-Altered.Carbon.2018-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/pyX4VdbRGdMGcFgHNoi3z6Gycgv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kaglh4xh7OOMAsfCNnsswcF4Fh4.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Altered Carbon
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 18 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após 250 anos no gelo, ele retorna em um novo corpo com uma missão: solucionar um complexo mistério e conquistar sua liberdade.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]American Horror Story (2011-2023) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C3-SRS-American.Horror.Story.2011-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/cgrzX4upJP9IDhlRO375G9whU8P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]American Horror Story
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2011 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]12 TEMPs - 132 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Descrita como uma série antológica, cada temporada é concebida como uma mini-série independente, seguindo um conjunto de personagens e ambientes distintos e com enredo único por temporada.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Apocalipse V (2019) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/C4B2-SRS-Apocalipse.V-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/njOxOfBp0d7DgdrMnOH1VugC9yZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/48u7bam4eyHaggLnpNKwux4l7bY.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Apocalipse V
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 10 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma misteriosa doença transforma suas vítimas em criaturas sanguinárias e põe dois amigos em lados opostos da disputa que definirá o futuro da humanidade.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Arcanjo Renegado (2020-2022) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C10-SRS-Arcanjo.Renegado.2020-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/czlKxUYrduRzBF5eQsphqSXrjMb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Arcanjo Renegado
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 20 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Arquivo Morto (2003-2009) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C21-SRS-Cold.Case-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cl36yfpaGw0emRdzPANsxqoiA4y.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Arquivo Morto
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003 a 2009
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 156 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A detetive Lilly Rush trabalha em casos arquivados na Polícia da Filadélfia, retomando investigações de assassinatos não solucionados.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Arquivo X (1993-2018) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C1-SRS-Arquivo.X-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/bA4XkQR5VAuiszhbfDhR0siZgiI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gBiPjwienJkkpUSM8S5RavdImZO.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Arquivo X
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1993 a 2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]11 TEMPS - 218 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dana Scully e Fox Mulder são dois agentes do FBI que investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Armação Ilimitada (1985- 1988) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C18-SRS-Armasao.Ilimitada-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/eqR5P2Dui9CGkSeQtQghDfs09qm.jpg</thumbnail>
@@ -198,64 +586,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Big Bang: A Teoria (2007-2019) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C12-SRS-Big.Bang.Teoria-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/wxQKABEsgyg61YpUwr7xySOGk04.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gtmM0vjnxJrnhTzmJODXYNPALNm.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ausência (2017-2020) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C54-SRS-Aus%C3%AAncia.2017-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/9dHLHOKDBder81XbWbGmpPyg1KO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8T9Dc5Z4RvoxyZ0IWOtve4bJz92.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Big Bang: A Teoria
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2007 a 2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]12 TEMPS - 279 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Blossom (1991-1995) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C2-SRS-Blossom-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/sX47qqvFVAsHd7R8yivkRIGBJZ6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/eDnrGNNMD8IyitmRojrRomY9vtW.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Blossom
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1991 a 1995
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 114 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Blossom é uma garota muito inteligente e sarcástica, que ainda mora com seu pai e seus dois irmãos. A história começa quando sua mãe larga tudo para viver sua própria vida, e seu pai começa a tentar reestruturar a família.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Castelo Rá-Tim-Bum (1994-1997) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C6-SRS-Castelo.Ra.Tim.Bum-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/zMnS2gtNBpwUuxxjOjEYsF819S3.jpg</thumbnail>
-<fanart>https://revista.algomais.com/wp-content/uploads/2020/04/25162857861292.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Castelo Rá-Tim-Bum
+[B]Ausência
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1994 a 1997
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 90 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nino, um menino de 300 anos, vive no Castelo com seus tios Victor, um grande inventor, e Morgana, uma feiticeira de 5999 anos. Junto aos seus novos amigos, Biba, Pedro e Zequinha, eles vivem grandes aventuras.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 30 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Emily Byrne é uma agente do FBI que assume a difícil missão de capturar um dos assassinos mais perigosos de Boston, mas, durante as investigações, ela acaba desaparecendo sem deixar pistas. 
 [/COLOR]</info>
 </channel>
 </channels>
@@ -263,17 +606,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Casseta e Planeta, Urgente! (1992-2010) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C24-SRS-Casseta.e.Planeta-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/AgiEHkS9rJHiQmkfpdLpfEmW9b2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5D9JpgXT2dUqhSmzR6kxxbXupYS.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Casseta e Planeta
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Aventuras de Rin Tin Tin (1954-1958) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C11-SEL-RIN.TIN.TIN-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/325dZgSWTdsu2xlSJIlhkDBteUa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/99iqOtitg8njtuxja2jnRyOE0ft.jpg</fanart>
+<info>[COLOR white]Selecione a opção em: 
+[B]As Aventuras de Rin Tin Tin
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1992 a 2010
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]19 TEMPS - +200 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dirigido por José Lavigne, o "Casseta & Planeta, Urgente!" é um programa de sátiras e esquetes de humor que retrata fatos contemporâneos com paródias.
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre As Aventuras de Rin Tin Tin.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
 </channel>
 </channels>
@@ -281,101 +624,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chapolin Colorado (1973-1979) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C3-SRS-Chapolin.Colorado-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ibBCgYw7HqcO4Vjconmzmhli0ha.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lrh8reksSZ5XC91Vpnfb2ZJs1bd.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Crônicas de Frankenstein (2015-2017) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/D2B-SRS-Frankenstein-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/gEkUGlWXruIb8q6DvQDbqxcfjgi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/efnTREn6vaTS02BQ6dhk8i9Ad6d.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Chapolin Colorado
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1973 a 1979
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPS - 291 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Chapolin Colorado é um herói atrapalhado, medroso e desastrado, que sempre aparece quando alguém precisa. Com sua marreta biônica e a pílula encolhedora, ele, muitas vezes, provoca mais confusão do que necessariamente ajuda.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chaves (1973-1980) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C4-SRS-Chaves-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/sVeLU8o3qA5zvAqK00X5LvRzygg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5LDbPGp5a5qiFqtA0tsG4njPsqt.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Chaves
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1973 a 1980
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPS - 312  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]El Chavo del Ocho (Chaves no Brasil), ou simplesmente El Chavo, foi um seriado de televisão mexicano criado, roteirizado, dirigido e estrelado por Roberto Gómez Bolaños.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cocoricó (1996-2013) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C32-SRS-Cocorico-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/xDivDzd1yF7NG6GW6ccz7ramLuv.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gcI9rFfXN99r8NvxVrU6yRfNn7P.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Cocoricó
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1996 a 2013
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPS - 287 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras de Júlio, um menino de 8 anos, que mora com seus avós na Fazenda Cocoricó. Um lugar encantador onde os animais falam, cantam e vivem se metendo em confusões muito divertidas. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Dois Homens e Meio (2003-2014) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C46-SRS-Dois.Homens.e.Meio-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fJ8ZGXtzGMGmpmkyAkLE4T8EzIb.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Dois Homens e Meio
+[B]As Crônicas de Frankenstein
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003 a 2014
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]12 TEMPs - 276 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A vida mulherenga do solteirão Charlie é afetada quando seu irmão divorciado e seu sobrinho de língua afiada vão morar com ele.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015 a 2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 12 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]John Marlott é um inspetor de polícia encarregado pelo Secretário de Segurança Sir Robert Peel, para investigar um caso bizarro. Quando o corpo de uma criança é encontrado no Rio, uma análise revela que não se trata de uma pessoa e sim de uma criatura com forma humana.
 [/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-			
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Família Dinossauros  (1991-1994) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C8-SRS-Familia.Dinosauros-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/tmho9KQniTBvsPfJMn60CJQ3akM.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uXuJmYwTH9lEDziaUcUQkE17bRM.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Crônicas de Sarah Connor (2008) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D2B-SRS-Ext.do.Futuro-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/6qRyKBpsR7ORvLak9ZGkSF7Da5y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4mHJ4WX8Egx3MAss1CTKOKxTrgH.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Família Dinossauros 
+[B]As Crônicas de Sarah Connor
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1991 a 1994
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 65 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Apesar de ser concebida como um programa infantil, faz uma crítica bem humorada ao chamado "american way of life" e uma sátira da sociedade e dos costumes da classe média desse país.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 31 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cansada de fugir de assassinos do futuro e policiais do presente, Sarah Connor decide se preparar para lutar contra as máquina do futuro que tentam sumariamente eliminá-la assim como a proteger seu filho John, predestinado a salvar a raça humana.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -383,666 +660,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Freaks and Geeks (1999) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C41-SRS-Freaks.and.Geeks-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/dUNouwAjgUne3DajpTzuTZBIops.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1lOGkpGa9SjZ2uP1PxfxDkSXRNs.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Panteras (1976-1980) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C9-SRS-As.Panteras-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/hTy1z8KR5NhFBUAt65Br9TWyuod.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/brNDL0tNemrDcLwTPWYhAOvMuu6.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Nomealvo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1999
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 18 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A trama gira em torno da adolescente Lindsay Weir e seu irmão Sam Weir, que frequentam a McKinley High School no início dos anos 80, nos subúrbios de Detroit, Michigan. 
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1980
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 110  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Lindas, inteligentes e ultrassofisticadas, as Charlie's Angels são tudo o que um homem poderia sonhar... e muito mais do que jamais poderiam lidar! Recebendo suas ordens pelo viva-voz de seu chefe nunca visto, Charlie.
 [/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Guerra, Sombra e Água Fresca (1965-1970) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C21-SRS-Guerra.S.A.Fresca-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/a97Q8f3dWiaMg2nq79zG5oZVotp.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Guerra, Sombra e Água Fresca
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1970
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 168 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As peripécias de um grupo de prisioneiros no Campo 13, narradas com muito bom humor. Eles se passam por prisioneiros de guerra, mas na verdade, são agentes secretos a serviço dos Aliados.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Harry, um Hóspede do Barulho (1991-1992) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C43-SRS-Harry.um.Hospede.Barulho.1991-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/uwyLTGY3gRXdowM4uTGwUBymnu5.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ndaNxWhIohUrbMbeqz86Nonma39.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Harry, um Hóspede do Barulho
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1991 a 1992
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 72  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A família Henderson atropela o Pé-Grande durante sua viagem de férias. Depois de cuidar dele, eles decidem adotá-lo e chamá-lo de Harry. O maior problema será mantê-lo escondido dos vizinhos.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]I Love Lucy (1951-1956) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C11-SRS-I.Love.Lucy-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MUwuHOHG1sNRKxaxRZnWpCJTrH.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]I Love Lucy
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1951 a 1956
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 181  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ricky Ricardo é um cubano, líder de uma banda no Clube Tropicana. Ele é casado com Lucy que, ao contrário do que se espera, não é uma esposa comum que apenas cuida da casa. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-			
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Já Chegamos? (2010-2012) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C13-SRS-Ja.Chegamos-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/gtnTW7upVdBOF3RswAbJHMV73zV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/iCDs2rHzB68TmpHQ9Xk4uaNzP7f.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Já Chegamos?
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2010 a 2012
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 100  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Casados há apenas seis meses, Nick e Suzanne notam que não é tão simples juntar as famílias. Os filhos de Suzanne preferem sair com os amigos do que se conectar com Nick, enquanto sua mãe não aceita o casamento.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jeannie é um Gênio (1965-1969) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C10-SRS-Jeannie.e.um.Genio-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/w7Gg2NpcajWd9S0bnbMyAvi5ycm.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vpEkjL6dLUlJw6l1wJ3lh92MDm2.jpg</fanart>
-<info>[COLOR white]Assista aqui a série  o desenho a novela: 
-[B]Jeannie é um Gênio
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1969
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 139 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Barbara Eden como um gênio de 2.000 anos e Larry Hagman como um astronauta que se torna seu mestre, e por quem ela se apaixona e acaba se casando. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jovem Sheldon (2017-2021) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C16-SRS-Jovem.Sheldon-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/uHa4RJ211SQZucg4EkcmOW8EnIU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/be2tXcGJDdtf7EbOPWpycFxALDN.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Jovem Sheldon
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 96 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Para Sheldon, infância não é nada fácil. Um gênio da matemática e das ciências, enfrenta dificuldades no cotidiano e uma família 'normal' que busca uma forma de lidar com ele.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]LOL - Se Rir, Já Era (2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C7-SRS-Se.RiR.JA.Era-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/kds0ISeNmbInlM9GCsWKCXtSRSq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3MBC7QUAReR9K3wKxNnQQ0EHJZZ.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]LOL - Se Rir, Já Era
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A última pessoa a restar no jogo, ganha um prêmio de R$ 350 mil que será revertido para uma instituição de caridade escolhida pelo vencedor.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Monk: Um Detetive Diferente (2002-2009) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C1-SRS-Monk-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/xNTFMNxOPQSlnNqJwsrSWGrjIuZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/a0OZOmsdlJo5DqghXhS96aYKBna.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Monk: Um Detetive Diferente
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2002 a 2009
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPs - 125 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após o assassinato não resolvido de sua esposa, Adrian Monk desenvolve um transtorno obsessivo-compulsivo, que lhe custa o seu trabalho como detetive. Contudo, ele continua a resolver crimes com a ajuda do ex-chefe.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mike e Molly (2010-2016) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C19-SRS-Mike.e.Molly-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/7HxmikDZpFosYvJogj69FxtCfT8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pr3W9ObkKSQjQm9HgJLTI8vfmN5.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Mike e Molly
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2010 a 2016
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 127 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mike é um policial que se apresenta em uma reunião dos Comedores Compulsivos Anônimos e conhece Molly, uma professora primária, por quem ele se apaixona e juntos começam sua jornada para perder peso.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Na Mira do Tira (1986-1987) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C47-SRS-Na.Mira.do.Tira-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/exYBfVOkRDg9f7HlRIDZ6gy3A73.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jduLDODbukARdUXiY1YZoQl0VEM.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Nomealvo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986 a 1987
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 42 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um policial totalmente atrapalhado e nonsense que costumava resolver todos os seus casos da maneira mais violenta e improvável possível, mas, na maioria das vezes, suas ideias acabavam sendo uma grande surpresa para toda sua equipe.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nós e o fantasma (1968-1970) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C26-SRS-Nos.e.o.Fantasma-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/pBxpFHfFADpEpO1WSBqUXlpFIlp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5PXiSWwUJQ7Qz6Tkt2YqEWeSymT.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Nós e o fantasma
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1968 a 1970
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 50  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após ficar viúva, a jovem escritora Carolyn Muir sente a necessidade de reconstruir a sua vida e muda-se com seus dois filhos e o cãozinho da família para um chalé onde existe um fantasma.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Album da Grande Familia (2017-2019) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D02B2-SRS-O.Album.2017-ALL</externallink>
-<thumbnail>https://s2-globo-play.glbimg.com/PXCPwt9LfS7r6pD4hasv3SA0fGI=/362x536/https://s2-globo-play.glbimg.com/aOqwWcRjwO3FrcS2SF5F1fHfrUQ=/https://s2.glbimg.com/Xqoo1g5-zkQCy9BJ0eckhsI9X6o=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/5/h/DR1WcaRIehOUcLrQBt9Q/2021-2557-o-album-da-grande-familia-poster.jpg</thumbnail>
-<fanart>https://extra.globo.com/incoming/21058929-7a1-bda/w976h550-PROP/grandefamilia.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Album da Grande Familia
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 204 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]especial reúne episódios de várias temporadas e mostra a evolução dos personagens ao longo dos 14 anos em que o seriado esteve no ar.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Barco do Amor (1977-1986) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/C48-COL-O.Barco.do.Amor-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/w1Wj22H2IKIPUUShFXRDaqHYcfn.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Barco do Amor
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1986
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]10 TEMPs - 151 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Passageiros que buscam noites românticas a bordo de um lindo navio viajando para países tropicais ou misteriosos, decidem passar as férias a bordo do “Barco do Amor”.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Psiquiatra ao Lado (2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C25-SRS-O.Psiquiatra.ao.Lado-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ieWve8oBT3PuT4e7ohtGp2mgmsN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9Hc0JluEcAKkJoZM7o65pzSI7Ir.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Psiquiatra ao Lado
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Marty só queria um terapeuta que o ensinasse a estabelecer limites. Ao longo de 30 anos, ele aprende tudo sobre eles, e também sobre o que acontece quando são ultrapassados.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Super-Herói Americano (1981-1982) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C17-SRS-Super.Hero.Amer-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/6e5AOU0X7dNLqtidm9qE11l8om6.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5ASuXTfd6zfLmyYdIf7R4uk4h5d.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Super-Herói Americano
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1981 a 1982
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 44 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante uma excursão com seus alunos, o professor Ralph Hanley é sequestrado por ETs, junto com o agente secreto do FBI Bill Maxwell. Ao contrário do que pode parecer, os ETs querem auxiliar a Terra a solucionar seus problemas.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Monkees (1966-1967) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C28-SRS-The.Monkees-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/4d5DWhXb16EgXRLrbEx5qq6lL8F.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Os Monkees
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]ANOS - 1966 a 1967
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 58 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As trapalhadas e aventuras de uma banda de rock, Os Monkees
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Monstros (1964-1964) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C44-SRS-Os.Monstros-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/dYdEFAEU3HZKgtvtindshDpa2Iy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rlOQE3FBKzamw5ddBgCrZJ1RkQl.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Os Monstros
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white][COLOR orange]1964 a 1964
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 70 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Monstros são uma família estranha, mas honesta.A sobrinha Marilyn, que é a única pessoa normal da casa, muito bonita e simpática, mas considerada como o "patinho feio" pela família.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Três Patetas (1934-1959) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D03B-SRS-Os.Tres.Patetas-ALL</externallink>
-<thumbnail>https://i.ibb.co/348rcTw/COL-3-PTTAS-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/v97m39cRhUaeis1QoOJyOSQpgaV.jpg</fanart>
-<info>[COLOR white]Assista aqui a coleção: 
-[B]Os Três Patetas
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1934 a 1959
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]190 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os três patetas foi um grupo cômico norte-americano do século XX, mais conhecido por seus numerosos curtas-metragens. Sua comicidade era marcada pela extrema comédia pastelão e farsa física. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Primo Cruzado (1986-1993) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C30-SRS-Primo.Cruzado-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/hufkc6LwZmHzlyB5SRrfDfrlyS1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/e22UKY4x8ldlqPrMZTZXxVpsHyi.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Primo Cruzado
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986 a 1993
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPS - 150 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Punky, a Levada da Breca (1984-1988) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C5-SRS-Punky.a.Levada.da.Breca-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/2ZVmXNThTccZ4rKUfe1C1QZDwTe.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/cSQU2kH0zWlhUvFALvWUebcwSWT.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Punky, a Levada da Breca
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984 a 1988
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 88 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Penelope Punky Brewster é abandonada pela mãe em um supermercado, contanto apenas com a companhia de seu cão, Brandon. Ela vai à procura de um abrigo, e acaba encontrando um apartamento vago em um prédio da redondeza e acaba ficando por lá.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sai de Baixo (1996-2013) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C35-SRS-Sai.de.Baixo-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3w11talcPZHoO20cvDjYGU0ExVK.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Sai de Baixo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1996 a 2013
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]00 TEMPs - 246 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um apartamento no Largo do Arouche é o cenário para as confusões de uma divertida família!
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Sob Nova Direção (2004-2007) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C51-COL-Sob.Nova.Diresao.2004-SL4-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/pmimYoj9cTqG1fhjoytTPtDC2oY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lNJT83L36hhwoGRQt22iDvgQ6cJ.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Sob Nova Direção
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2004 a 2007
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 124 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As confusões das amigas Pit e Belinha, donas de um bar no subúrbio do Rio. Elas contam com a ajuda dos funcionários Franco e Moreno e do cliente Horácio.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Super Gatas (1985-1991) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C29-SRS-Golden.Girls-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/fZAp6AfhFfehAwacZXjdFJGDOmj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/uLJyqp7twZaqrsrYSQEp2t0amTj.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Super Gatas
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985 a 1991
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPS - 180 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quatro mulheres anteriormente casadas estão morando juntas em Miami, compartilhando suas diversas experiências juntas e se divertindo apesar dos momentos difíceis.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Todo Mundo Odeia o Chris (2005-2008) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C45-SRS-Todo.Mundo.Odeia.Chris-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2T0s6klQLvtFOzsqA9512uu5ltf.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Todo Mundo Odeia o Chris
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2008
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 88 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Baseada vagamente nas experiências pessoais do ator e comediante Chris Rock no bairro de Bed-Stuy, em Nova Iorque, durante a década de 1980 (1982 a 1987).
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Toma Lá, Dá Cá (2007-2009) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C36-SRS-Toma.La.Da.Ca-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/9KyafMIchKWTjRmtE7I41uDBDFv.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/j46YBxcV9LiOY2eKgbSHuAvaJpI.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Toma Lá, Dá Cá
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2007 a 2009
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 92 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Duas famílias separadas por um corredor, mas que participam ativamente da vida uns dos outros.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Trio Calafrio (1975) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C49-COL-Trio.Calafrio-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/e6870w2UUqIu1Ndza5xaG5ULia5.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/dPOzeeGWr0dM3EVAMgmvkBFqIrY.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Trio Calafrio
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 15 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]The Ghost Busters foi uma série de televisão infantil de comédia exibida em 1975, sobre uma equipe de detetives desajeitados que investigariam ocorrências fantasmagóricas.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]TV Colosso (1993-1997) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D04B-SRS-TV.Colosso-ALL</externallink>
-<thumbnail>https://i.ibb.co/F6cFm0M/COL-TVCOLOSSO-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/GQbHmRm/COL-TVCOLOSSO-FAN-ALL.png</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]TV Colosso
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1993 a 1997
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - +100 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Programa infantojuvenil estrelado por bonecos, que alterna quadros com exibição de desenhos animados. O cast de bonecos é composto por 28 fantoches, sendo 25 cachorros e três pulgas.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]TV Pirata (1988-1992) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C39-SRS-TV.Pirata-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/bhEej1kmk9ADmHm25RAWv8wh7QB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2TvIuQpT7vXDrToQiI9n0Sl9hgo.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]TV Pirata
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1988 a 1992
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 34 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma seleção de quadros e episódios, dentre os melhores da série, exibidos de 1988 a 1992 na TV Globo. E ainda duas novelas completas: 'Fogo no Rabo' e 'O Segredo de Darcy'.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Um Amor de Familia (1987-1996) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C14-SRS-Um.Amor.de.Familia-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/utM8UUlU8v1tfI4KB1TdlOmR6ux.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rbGn5cWCBby50lgWZcatMLhGz5G.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Um Amor de Familia
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1987 a 1996
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]11 TEMPS - 262 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A família Bundy, que vive nos arredores de Chicago e faz qualquer coisa para não ter que dizer palavras gentis uns aos outros. O patriarca Al é um vendedor de sapatos misógino cuja mulher, Peggy, é uma dona de casa que não quer saber de nenhum afazer doméstico.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Xerife Lobo (1979-1980) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C42-SRS-Xerife.Lobo-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/AtM6bxCDtxJ3OFH4rdQqaCkeaX2.jpg</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Xerife Lobo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1979 a 1980
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 37 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Sheriff Lobo é uma série de televisão americana de comédia de ação que foi exibida na NBC de 18 de setembro de 1979 a 5 de maio de 1981.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-			
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Wandinha (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C27-SRS-Wandinha-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ctI52NGXwDluCmAY9kOLqGg9hb5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wYPKRllm4OsviEjK1l1yt3U8PS7.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Wandinha
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Z"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C-LS-SRS-COM-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A02-SEL-SRS-LETRA-A-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
@@ -1052,9 +692,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C-LS-SRS-COM-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A02-SEL-SRS-LETRA-A-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -1062,10 +702,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DO GÊNERO COMÉDIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/1-LS-SEL-COM-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES - SERVER LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A-SEL-SRS-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -1074,9 +714,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -1085,9 +725,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/7-SEL-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -1096,9 +736,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -1107,9 +747,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/4-SEL-ESPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -1118,9 +758,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/3-SEL-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -1129,9 +769,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2-SEL-FLMS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -1140,9 +780,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/1-CATEGORIAS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
