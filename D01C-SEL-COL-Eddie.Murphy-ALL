@@ -87,7 +87,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Um Tira da Pesada (04 Filmes)[/B][/COLOR]</name>
+<name>[COLOR white][B]Um Tira da Pesada (04 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D01C5-COL-Um.Tira.da.Pesada-ALL</externallink>
 <thumbnail>https://i.ibb.co/9q30nXW/COL-T-PES-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/CJ4J4P3/COL-T-PES-FAN-ALL.png</fanart>
@@ -95,8 +95,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Um Tira da Pesada
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -105,16 +106,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Eddie Murphy (25 Filmes)[/B][/COLOR]</name>
+<name>[COLOR white][B]Eddie Murphy (25 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D01A-FLM-Eddie.Murphy-ALL</externallink>
-<thumbnail>https://i.ibb.co/KG7h43N/COL-EDDIE-M-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Dg3Dnff/COL-EDDIE-M-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/cNDjBvz/ESP-EDDIE-MURPHY-FLM.png/thumbnail>
+<fanart>https://i.ibb.co/T854KPh/ESP-EDDIE-MURPHY-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Eddie Murphy
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
