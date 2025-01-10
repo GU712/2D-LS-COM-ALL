@@ -1,23 +1,15 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<item>	
-<title>[COLOR orange][B]FILME[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/cZvD4sgyX5ylghPXLcGZxXu0VUl.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Projeto ALF (1996) - SD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]Projeto ALF (1996) - SD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/LS-1996.Projeto.ALF.SD.DUAL+LEG.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/cZvD4sgyX5ylghPXLcGZxXu0VUl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
@@ -26,8 +18,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1996
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]ALF segue um sinal de rádio amador para a Terra e acaba caindo na garagem da casa da família Tanner. Os Tanner são uma típica família de classe média em Riverside, Califórnia.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]ALF segue um sinal de rádio amador para a Terra e acaba caindo na garagem da casa 
+da família Tanner. Os Tanner são uma típica família de classe média em Riverside, Califórnia.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -36,28 +32,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
