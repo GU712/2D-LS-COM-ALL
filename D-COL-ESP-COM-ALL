@@ -146,16 +146,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Um Hóspede do Barulho (Filme - Série)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D01C-COL-Um.Hospede.Barulho-ALL</externallink>
-<thumbnail>https://i.ibb.co/yQMShnW/COL-HARRY-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Bns5wcj/COL-HARRY-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Um Hóspede do Barulho (Filme - Série)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D08-SEL-Um.Hospede.Barulho-ALL</externallink>
+<thumbnail>https://i.ibb.co/55yqScX/ESP-HARRY-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/0B1J5T1/ESP-HARRY-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Um Hóspede do Barulho
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -166,7 +167,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink><LINKRAWDAPAGEALVO></externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D-COL-ESP-COM-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -176,7 +177,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink><LINKRAWDAPAGEALVO></externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D-COL-ESP-COM-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
