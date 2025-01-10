@@ -1,15 +1,16 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Um Detetive Diferente (1994) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Um Detetive Diferente (1994) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Ace.Ventura/FLM/LS-1994.Ace.Ventura.1.FHD.DUAL.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/4YOIHjTJa89LEFmrP8eEmJT2ggp.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/msDeo7hVIb9x0q8MqVGFbHluDew.jpg</fanart>	
@@ -17,14 +18,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Um Detetive Diferente
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1994
-[COLOR orange]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ace Ventura é um detetive especializado em desvendar crimes envolvendo animais. Vive cercado de bichos, mas não tem muito trabalho. O desaparecimento de um golfinho, mascote da equipe de futebol americano Miami Dolphins, aparentemente seqüestrado, torna-se seu primeiro grande caso.
-[/COLOR]</info>
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Ace Ventura é um detetive especializado em desvendar crimes envolvendo animais. 
+Vive cercado de bichos, mas não tem muito trabalho. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Um Maluco na África (1995) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Um Maluco na África (1995) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Ace.Ventura/FLM/LS-1995.Ace.Ventura.2.FHD.DUAL.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/2TmlbjEQ6DFWI2YFrS4MTmgIWOs.jpg</thumbnail>	
 <fanart>https://www.themoviedb.org/t/p/original/r631SUgF0KeFRJGyPH1KZ6J53bE.jpg</fanart>
@@ -33,13 +38,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1995
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após não conseguir salvar um guaxinim, Ace Ventura impôs a si mesmo um exílio entre monges no Himalaia. Mas ele acaba indo viajar para a província de Bonai, Níbia, África, a fim de tentar recuperar o grande morcego branco sagrado, que foi prometido como dote quando a princesa da tribo dos Wachati.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Após não conseguir salvar um guaxinim, Ace Ventura impôs a si mesmo um exílio entre 
+monges no Himalaia. Mas ele acaba indo viajar para a província de Bonai, Níbia, África.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Filho do Ace Ventura (2009) - FHD DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]O Filho do Ace Ventura (2009) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Ace.Ventura/FLM/FLM/LS-2009.O.Filho.do.Ace.Ventura.FHD.DUAL.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/yj8a9BMuIUgeKhKZRWJVeKE5jXl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sT8XPGZ0rsL2r52pFotGcAzKAi9.jpg</fanart>
@@ -48,39 +57,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2009
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Parece brincadeira. O detetive de animais mais famoso do mundo agora tem um filho.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Parece brincadeira. O detetive de animais mais famoso do mundo agora tem um filho.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
