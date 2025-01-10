@@ -1,116 +1,175 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>	
-<title>[COLOR orange][B]DESENHO[/B][/COLOR]</title>	
+<title>[COLOR orange][B]ALF: A Serie Animada[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/l6yzVC5wVdGI1ucIBkRwadImcqb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<info>[COLOR white]Assista aqui o desenho: 
+[B]ALF: A Serie Animada
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1987 a 1988
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 26 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Gordon Shumway, aquela simpática criaturinha que acabou na garagem da família Tanner, 
+na verdade percorreu uma longa jornada até chegar ao planeta Terra.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1987) 06 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/7lAOkteTvU09tFW2SAbD8RL5R7m.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E01[COLOR yellow] -> [COLOR white]O Piloto Fantasma[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T01E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7lAOkteTvU09tFW2SAbD8RL5R7m.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Piloto Fantasma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E02[COLOR yellow] -> [COLOR white]Cabelo hoje, careca amanhã[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T01E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7lAOkteTvU09tFW2SAbD8RL5R7m.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cabelo hoje, careca amanhã[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E03[COLOR yellow] -> [COLOR white]O motor do Sargento[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T01E03.mkv</link>
-<thumbnail><CAPA></thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O motor do Sargento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E06[COLOR yellow] -> [COLOR white]Pismo e o Giroscópio Orbital[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T01E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7lAOkteTvU09tFW2SAbD8RL5R7m.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Pismo e o Giroscópio Orbital[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E09[COLOR yellow] -> [COLOR white]Capitão Bobaroo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T01E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7lAOkteTvU09tFW2SAbD8RL5R7m.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Capitão Bobaroo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[COLOR orange][B]LS4-T01E10[COLOR yellow] -> [COLOR white]Neep nas Corridas[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T01E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7lAOkteTvU09tFW2SAbD8RL5R7m.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 01 (1988) 06 EPs - SD DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 02 (1988) 06 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/itrZPHGEfRYU47C9ZORIHA0Cqvi.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E06[COLOR yellow] -> [COLOR white]As Escoteiras[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T02E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/itrZPHGEfRYU47C9ZORIHA0Cqvi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]As Escoteiras[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T02E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E07[COLOR yellow] -> [COLOR white]Viva Mellywood[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T02E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/itrZPHGEfRYU47C9ZORIHA0Cqvi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Viva Mellywood[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T02E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E09[COLOR yellow] -> [COLOR white]Este é meu irmão[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T02E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/itrZPHGEfRYU47C9ZORIHA0Cqvi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Este é meu irmão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T02E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E10[COLOR yellow] -> [COLOR white]Procurando amor nos lugares errados[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T02E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/itrZPHGEfRYU47C9ZORIHA0Cqvi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Procurando amor nos lugares errados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T02E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E11[COLOR yellow] -> [COLOR white]O Recomeço[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T02E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/itrZPHGEfRYU47C9ZORIHA0Cqvi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]O Recomeço[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T02E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E13[COLOR yellow] -> [COLOR white]O Novo Pai do Skipper[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/Alf.o.ET/Alf.Serie.Anim.1987/LS-T02E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/itrZPHGEfRYU47C9ZORIHA0Cqvi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]O Novo Pai do Skipper[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/DSH/1987.Alf.Serie.Anim/LS-T02E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
