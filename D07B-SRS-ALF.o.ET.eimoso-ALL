@@ -1,484 +1,989 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>	
-<title>[COLOR orange][B]SÉRIE[/B][/COLOR]</title>	
+<title>[COLOR orange][B]ALF, o ETeimoso[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<info>[COLOR white]Assista aqui a série: 
+[B]ALF, o ETeimoso
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986 a 1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 100 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]ALF segue um sinal de rádio amador para a Terra e acaba caindo na garagem da casa da 
+família Tanner. Os Tanner são uma típica família de classe média em Riverside, Califórnia.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1986) 25 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Piloto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Estranhos na Noite[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Estranhos na Noite[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]A Procura de Lucky[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Procura de Lucky[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]O Plano Antibomba[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Plano Antibomba[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]O Negócio é Batalhar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Negócio é Batalhar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Somente Para Seus Olhos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Somente Para Seus Olhos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Rhonda, Socorro[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Rhonda, Socorro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Não Tente Me Mudar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Não Tente Me Mudar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Pulo de Coragem[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Pulo de Coragem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Pode Dirigir Meu Carro[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Pode Dirigir Meu Carro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Férias Desastrosas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Férias Desastrosas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Alf, O Economista[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Alf, O Economista[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Reunião de Família[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Reunião de Família[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Novela Interessante[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Novela Interessante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Uma Nova Filosofia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Uma Nova Filosofia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Procure Lembrar (Partes 1 e 2)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Procure Lembrar (Partes 1 e 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]A Canção[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]A Canção[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Coisa Selvagem[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Coisa Selvagem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Paixão por Você[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Paixão por Você[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Através da Janela[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Através da Janela[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Não é Fácil Ser Diferente[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E21.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Não é Fácil Ser Diferente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E21.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Gambler[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E22.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Gambler[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E22.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Ciência Estranha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E23.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Ciência Estranha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E23.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]La Cuckaracha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E24.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]La Cuckaracha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E24.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Venha Voar Comigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T01/LS-T01E25.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Venha Voar Comigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T01/LS-T01E25.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 02 (1987) 25 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Quero Voltar Pra Você[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Quero Voltar Pra Você[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]A Balada da Ilha de Gilligan[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]A Balada da Ilha de Gilligan[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Confia em Mim[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Confia em Mim[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Casamento a Vista[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Casamento a Vista[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Os Melhores Tempos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Os Melhores Tempos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Uma Noite Encantada[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Uma Noite Encantada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Garota Bonita[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Garota Bonita[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Algo Errado Comigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Algo Errado Comigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Trem Noturno[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Trem Noturno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Não é Romântico[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Não é Romântico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Um Viva ao Chefe[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Um Viva ao Chefe[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Especial de Natal do Alf (Partes 1 e 2)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Especial de Natal do Alf (Partes 1 e 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]O Rapaz Aí do Lado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]O Rapaz Aí do Lado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Posso Arrumar Uma Testemunha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Posso Arrumar Uma Testemunha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Sentimos Muito, Tio Albert[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Sentimos Muito, Tio Albert[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Alguém Pra Cuidar de Mim (Parte 1)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Alguém Pra Cuidar de Mim (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Alguém Pra Cuidar de Mim (Parte 2)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Alguém Pra Cuidar de Mim (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]Vamos Cair Fora Daqui[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Vamos Cair Fora Daqui[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]Você Não Passa de um Cão[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Você Não Passa de um Cão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]A Briga[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]A Briga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]A Mudança[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E21.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]A Mudança[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E21.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]O Ventríloco[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E22.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]O Ventríloco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E22.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Tequila[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E23.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]Tequila[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E23.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]Somos uma Família[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E24.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]Somos uma Família[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E24.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E25[COLOR yellow] -> [COLOR white]Vamos Ajudar a Lynn[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T02/LS-T02E25.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/903p8GxXt95SYdjmG8pCderovjb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]Vamos Ajudar a Lynn[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T02/LS-T02E25.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 03 (1988) 26 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Pare em Nome do Amor[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Pare em Nome do Amor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Escada Para o Paraíso[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Escada Para o Paraíso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Separar é Difícil[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Separar é Difícil[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]O Show Espetacular (Parte 1)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]O Show Espetacular (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]O Show Espetacular (Parte 2)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]O Show Espetacular (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Promessas, Promessas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Promessas, Promessas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Ação de Graças no Vizinho (Parte 1)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Ação de Graças no Vizinho (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Ação de Graças no Vizinho (Parte 2)[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Ação de Graças no Vizinho (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Mudanças[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Mudanças[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Os Bons Anos [/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Os Bons Anos [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Sozinho Outra Vez[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Sozinho Outra Vez[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Você Crê em Mágica[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Você Crê em Mágica[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]O Esconderijo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]O Esconderijo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]O Revide[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]O Revide[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]Mentes Suspeitas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Mentes Suspeitas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Estranha Alergia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Estranha Alergia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Fugindo Assustado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Fugindo Assustado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]Na Sombra do Amor[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Na Sombra do Amor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]A Superstição[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]A Superstição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]Entre Dois Amores[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]Entre Dois Amores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]Funeral para Amigos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E21.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]Funeral para Amigos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E21.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]Não Tenha Medo do Escuro[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E22.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]Não Tenha Medo do Escuro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E22.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E23[COLOR yellow] -> [COLOR white]Mãe do Jake[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E23.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white]Mãe do Jake[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E23.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E24[COLOR yellow] -> [COLOR white]Igual a um Filme Antigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E24.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E24[COLOR yellow] -> [COLOR white]Igual a um Filme Antigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E24.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E25[COLOR yellow] -> [COLOR white]O Terremoto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E25.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E25[COLOR yellow] -> [COLOR white]O Terremoto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E25.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E26[COLOR yellow] -> [COLOR white]O Bebê[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T03/LS-T03E26.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E26[COLOR yellow] -> [COLOR white]O Bebê[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T03/LS-T03E26.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 04 (1989) 24 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]Baby, Come Back[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Baby, Come Back[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Mentiras[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Mentiras[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Procurado: Vivo ou Morto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Procurado: Vivo ou Morto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Estamos Nadando na Grana[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Estamos Nadando na Grana[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Jogos Mentais[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Jogos Mentais[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Preso Por Um Sentimento[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Preso Por Um Sentimento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Ele Não é Chato, é o Irmão do Willy[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Ele Não é Chato, é o Irmão do Willy[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]A Primeira Vez Em Que Vi o Seu Rosto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]A Primeira Vez Em Que Vi o Seu Rosto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Viva e Deixe Morrer[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Viva e Deixe Morrer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Ficar de Mal Pra Fazer as Pazes[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Ficar de Mal Pra Fazer as Pazes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Juntos e Felizes[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Juntos e Felizes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Fever[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Fever[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]A Festa é Minha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]A Festa é Minha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]O Rei da Comédia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]O Rei da Comédia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]Amor Como Manda o Figurino[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Amor Como Manda o Figurino[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]Em Cores Vivas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]Em Cores Vivas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]Quero Minha Antiga Religião de Volta[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]Quero Minha Antiga Religião de Volta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E18[COLOR yellow] -> [COLOR white]O Futuro é Tão Brilhante Que Teremos Que Usar Óculos Escuros[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]O Futuro é Tão Brilhante Que Teremos Que Usar Óculos Escuros[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]Quando Eu Tiver  anos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white]Quando Eu Tiver  anos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]Bicho Papão[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]Bicho Papão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E21[COLOR yellow] -> [COLOR white]Vivendo Felizes[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E21.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white]Vivendo Felizes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E21.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E22[COLOR yellow] -> [COLOR white]Faminto Como um Lobo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E22.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white]Faminto Como um Lobo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E22.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E23[COLOR yellow] -> [COLOR white]Eu Tenho Que Ser Eu[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E23.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E23[COLOR yellow] -> [COLOR white]Eu Tenho Que Ser Eu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E23.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E24[COLOR yellow] -> [COLOR white]A Despedida[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/ALF.o.ETeimoso.1986/T04/LS-T04E24.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kSv52RU3y9EKsTGxlHY57ud9wUV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E24[COLOR yellow] -> [COLOR white]A Despedida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Alf.o.ET/SRS/1986.ALF.o.ETeimoso/T04/LS-T04E24.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
