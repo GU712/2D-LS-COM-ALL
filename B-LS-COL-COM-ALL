@@ -358,16 +358,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]TV Colosso (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D04A-FLM-TV.Colosso-ALL</externallink>
-<thumbnail>https://i.ibb.co/4pfRgR1/COL-TVCOLOSSO-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/GQbHmRm/COL-TVCOLOSSO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]TV Colosso (03 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D05A-FLM-TV.Colosso-ALL</externallink>
+<thumbnail>https://i.ibb.co/g7Mxr1j/ESP-TVCOLOSSO-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/1nXjbDK/ESP-TVCOLOSSO-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]TV Colosso
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
