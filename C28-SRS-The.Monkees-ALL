@@ -1,11 +1,21 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]<NOMEDASÉRIE>[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+
+SUBSTITUIR COM PARTE DE CHANNELS
+	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
@@ -16,132 +26,132 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Um Broto e Uma Coroa[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E01.mkv</link>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Um Broto e Uma Coroa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E01.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Legado Legal[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E02.mkv</link>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Legado Legal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E02.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Eletrônicas só as Guitarras[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E03.mkv</link>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Eletrônicas só as Guitarras[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E03.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Conjunto Desconjuntado[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E04.mkv</link>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Conjunto Desconjuntado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E04.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Entrando em uma Fria[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E05.mkv</link>
+item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Entrando em uma Fria[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E05.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Davy é Barra Limpa[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E06.mkv</link>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Davy é Barra Limpa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E06.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Vendo o Sol Nascer Quadrado[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E07.mkv</link>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Vendo o Sol Nascer Quadrado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E07.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Os Quatro Cavaleiros do Iê-Iê-Iê[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E08.mkv</link>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Os Quatro Cavaleiros do Iê-Iê-Iê[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E08.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Nessa Onda Eu Não Vou[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E09.mkv</link>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Nessa Onda Eu Não Vou[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E09.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Eles São Bárbaros[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E10.mkv</link>
+item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Eles São Bárbaros[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E10.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Lenha Prá Toda Obra[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E11.mkv</link>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Lenha Prá Toda Obra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E11.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Eu Compus uma Pequena Canção[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E12.mkv</link>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Eu Compus uma Pequena Canção[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E12.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Peter Está Gamado[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E13.mkv</link>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Peter Está Gamado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E13.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Em Todos os Balanços[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E14.mkv</link>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Em Todos os Balanços[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E14.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]A Turma é uma Brasa[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E15.mkv</link>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]A Turma é uma Brasa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E15.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]A Cigana me Enganou[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E16.mkv</link>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]A Cigana me Enganou[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E16.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Era ou Não Era Nuclear[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E17.mkv</link>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Era ou Não Era Nuclear[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E17.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Monstros da Bossa[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E18.mkv</link>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Monstros da Bossa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E18.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Procuram-se Quatro Vivos[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E19.mkv</link>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Procuram-se Quatro Vivos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E19.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Deixa Cair[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E20.mkv</link>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Deixa Cair[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E20.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Caixa Muito Alta[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E21.mkv</link>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Caixa Muito Alta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E21.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Todos na Lona[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E22.mkv</link>
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Todos na Lona[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E22.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Fã-Clube[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E23.mkv</link>
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Fã-Clube[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E23.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Atentem Para o Detalhe[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E24.mkv</link>
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Atentem Para o Detalhe[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E24.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Um Cara Pouco Legal[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E25.mkv</link>
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Um Cara Pouco Legal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E25.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Negócios da China[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E26.mkv</link>
+<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Negócios da China[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E26.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-item><title>[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]Programa Maternal[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E27.mkv</link>
+item><title>[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]Programa Maternal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E27.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E28[COLOR yellow] -> [COLOR white]Os Monkees Entram na Linha[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E28.mkv</link>
+<item><title>[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]Os Monkees Entram na Linha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E28.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-item><title>[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]A Gata[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E29.mkv</link>
+item><title>[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]A Gata[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E29.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E30[COLOR yellow] -> [COLOR white]Não Faça Conta da Conta[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E30.mkv</link>
+<item><title>[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]Não Faça Conta da Conta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E30.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E31[COLOR yellow] -> [COLOR white]A Fita dos Monkees[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E31.mkv</link>
+<item><title>[COLOR orange][B]T01E31[COLOR yellow] -> [COLOR white]A Fita dos Monkees[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E31.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E32[COLOR yellow] -> [COLOR white]O Preço da Fama[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T01/LS-T01E32.mkv</link>
+<item><title>[COLOR orange][B]T01E32[COLOR yellow] -> [COLOR white]O Preço da Fama[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T01/LS-T01E32.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tQe3psulCBy2Vp22Ze7gw0IJfy.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
@@ -153,44 +163,44 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Cinema Prá Frente[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E01.mkv</link>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cinema Prá Frente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E01.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]A Filha Do Sheik[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E02.mkv</link>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]A Filha Do Sheik[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E02.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]A Força do Amor[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E03.mkv</link>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Força do Amor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E03.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Essa Família é Fogo[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E04.mkv</link>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Essa Família é Fogo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E04.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Na Ponta dos Pés[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E05.mkv</link>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Na Ponta dos Pés[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E05.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Nem Tanto ao Mar[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E06.mkv</link>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Nem Tanto ao Mar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E06.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Os Monkees Fazem Seu Jogo[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E07.mkv</link>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Os Monkees Fazem Seu Jogo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E07.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]O Natal é um Espetáculo[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E08.mkv</link>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Natal é um Espetáculo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E08.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Os Monkees em Órbita[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E09.mkv</link>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Os Monkees em Órbita[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E09.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]O Concurso[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/The.Monkees/T02/LS-T02E10.mkv</link>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]O Concurso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/4-CMD/1966.The.Monkees/T02/LS-T02E10.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhzdps0OYvQzVC4WoKf5ERabKGj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -198,27 +208,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
