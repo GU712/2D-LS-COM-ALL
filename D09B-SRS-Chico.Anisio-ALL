@@ -91,16 +91,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Escolinha do Professor Raimundo (1990-2001) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B6B4-SRS-Esc.Prof.Raimundo-ALL</externallink>
+<name>[COLOR white][B]Escolinha do Professor Raimundo (1990-2001) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D09B3-SRS-Esc.Prof.Raimundo.1990-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/4BfpTDj9jU9kH3G69p4XqONPKjh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sG8lX0r5cQNjUE6CiYfBULYliQa.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]NOMEDASERIE
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1990 a 2001
-[COLOR orange]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Chico Anysio é Raimundo Nonato, o severo professor que sabatina seus alunos na sala de aula mais irreverente do país.
+[B]Escolinha do Professor Raimundo 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1990 a 2001
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Chico Anysio é Raimundo Nonato, o severo professor que sabatina seus alunos na 
+sala de aula mais irreverente do país.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
