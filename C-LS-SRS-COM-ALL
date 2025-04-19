@@ -379,6 +379,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Chico Anisio (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D09B-SRS-Chico.Anisio-ALL</externallink>
+<thumbnail>https://i.ibb.co/tww794jL/ESP-CHICOANYSIO-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/6cCWXHBC/ESP-CHICOANYSIO-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Chico Anisio
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Cocoricó (1996-2013) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>	
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C032-SRS-Cocorico-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
