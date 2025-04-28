@@ -1,94 +1,727 @@
-#EXTM3U
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/l756tPV14Gg2PRDlqCcdJAdwsHl.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Na Onda do Iê-Iê-Iê - 1966[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/01-LS-Na.Onda.do.Ie-Ie-Ie.1965.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/e5lRd7TOfN9tHZI5a9FkJxmOIr4.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Adorável Trapalhão - 1967[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/02-LS-Adoravel.Trapalhao.1966.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ghUvFCnbGmFdBz2antoB4eg2jTj.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Dois Na Lona - 1968[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/03-LS-Dois.Na.Lona.1967.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q0wSO2SGuYiWAt8989mLpgqzQ0k.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Bonga o Vagabundo - 1969[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/04-LS-Bonga.O.Vagabundo.1969.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mQ38hsUjpHSBrsC7MUa9TjaaKgr.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Ali Babá e os Quarenta Ladrões - 1972[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/05-LS-Ali.Baba.e.os.Quarenta.Ladroes.1972.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Aladim e a Lâmpada Maravilhosa - 1974[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/06-LS-Aladim.e.a.Lampada.Maravilhosa.1973.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kPH0ZO12dNVn05mhW8eW33qOK0a.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Robin Hood o Trapalhão da Floresta - 1974[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/07-LS-Robin.Hood.O.Trapalhao.da.Floresta.1973.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/azrBKuXCdKAIfg7P60SS3RhnEXB.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Trapalhão na Ilha do Tesouro - 1974[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/08-LS-O.Trapalhao.Na.Ilha.do.Tesouro.1974.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/puzvdzz6M1ASEkZ1LQEnHZhLHZz.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Simbad o Marujo Trapalhão - 1975[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/09-LS-Simbad.o.Marujo.Trapalhao.1975.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w9OqnqJ6WsMYSqV194O3LkdYzSe.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Trapalhão no Planalto dos Macacos - 1976[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/10-LS-O.Trapalhao.no.Planalto.dos.Macacos.1976.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dcGPEgJp95zk00XiWYUAFy7F4ro.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Trapalhão nas Minas do Rei Salomão - 1977[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/11-LS-Os.Trapalhoes.nas.Minas.do.Rei.Salomao.1977.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vm7CB3yZ5Zt2NvCuNbfQvbEwAsI.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões na Guerra dos Planetas - 1978[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/12-LS-Os.Trapalhoes.na.Guerra.dos.Planetas.1978.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ylawPhzjXKUtCd7RqjJOj3hi0OM.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Cinderelo Trapalhão - 1979[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/13-LS-Cinderelo.Trapalhao.1979.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uawG2ASZPyBHujOuljEd0BqZaF1.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Rei e os Trapalhões - 1979[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/14-LS-O.Rei.e.Os.Trapalhoes.1979.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nzi3t6CzLqHlJw9mUucH2Nq4bQx.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Três Mosqueteiros Trapalhões - 1980[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/15-LS-Os.Tres.Mosqueteiros.Trapalhoes.1980.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xAP2ZzCdiOdrynIwPR702gMK668.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Incrível Monstro Trapalhão - 1981[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/16-LS-O.Incrivel.Monstro.Trapalhao.1980.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/c29OwDKa385qN4w7vUOgUkwUkQJ.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Mundo Mágico dos Trapalhões - 1981[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/17-LS-O.Mundo.Magico.Dos.Trapalhoes.1981.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fWYBeNsJUPtxtnXHT1ViLI3LeKe.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Saltimbancos Trapalhões - 1981[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/18-LS-Os.Saltimbancos.Trapalhoes.1981.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sSIaLy7vbvmIRUx6J7IVXTZB9fo.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Vagabundos Trapalhões - 1982[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/19-LS-Os.Vagabundos.Trapalhoes.1982.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/krFAA4kpf3SPIqU5k4CEG8R4eQO.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões na Serra Pelada - 1982[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/20-LS-Os.Trapalhoes.Na.Serra.Pelada.1982.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sPq3pZBqWt5GlB0vAreTkr1TTOf.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Cangaceiro Trapalhão - 1983[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/21-LS-O.Cangaceiro.Trapalhao.1983.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wA6v0Rw9pmUI1DiWWB5ytxqYW4E.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Trapalhão na Arca de Noé - 1983[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/22-LS-O.Trapalhao.na.Arca.De.Noe.1981.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vuqGUnWLyLC17zYXWPwfT43145A.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões e o Mágico de Oróz - 1984[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/23-LS-Os.Trapalhoes.e.o.Magico.De.Oroz.1984.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xK3k94RSkW7u1walQlTxP16G5Tj.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]A Filha dos Trapalhões - 1984[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/24-LS-A.Filha.dos.Trapalhoes.1984.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4vQYLnT3fOE1CfyHfRSYOsU1Xhc.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões no Reino da Fantasia - 1985[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/25-LS-Os.Trapalhoes.No.Reino.Da.Fantasia.1985.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8XoZzttXVWuoYt8L6nxqP0xFAas.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões no Rabo do Cometa - 1986[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/26-LS-Os.Trapalhoes.No.Rabo.Do.Cometa.1985.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uEie8BuqKLzX5WFXQ6HExwPiqwJ.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões e o Rei do Futebol - 1986[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/27-LS-Os.Trapalhoes.e.o.Rei.Do.Futebol.1986.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rZhfd9BvXFNEjBGGJCIA8Gy3VJO.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões no Auto da Compadecida - 1987[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/28-LS-Os.Trapalhoes.no.Auto.da.Compadecida.1987.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iZ7QSsfkqJJNIT1GQcXVs01Rjq8.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Fantasmas Trapalhões - 1987[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/29-LS-Os.Fantasmas.Trapalhoes.1988.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sghqwymNH187Vg5bOY3vX7g1KD2.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Heróis Trapalhões Uma Aventura na Selva - 1988[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/30-LS-Os.Herois.Trapalhoes.Uma.Aventura.Na.Selva.1988.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xKoM05UcZEFznOwrs0RjX4afS1g.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Casamento dos Trapalhões - 1988[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/31-LS-O.Casamento.dos.Trapalhoes.1988.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bFIv5EDwRjSt80H4Mkd3bMVsx1b.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]A Princesa Xuxa e os Trapalhões - 1989[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/32-LS-A.Princesa.Xuxa.e.Os.Trapalhoes.1989.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pinxZ81xfig6sNeVPCSfTIbGgBI.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões na Terra dos Monstros - 1989[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/33-LS-Os.Trapalhoes.Na.Terra.Dos.Monstros.1989.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3VBItZiqd8FWzfNcJAAFY6no3Uc.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Mistério de Robin Hood - 1990[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/34-LS-Xuxa.e.os.Trapalhoes.Em.O.Misterio.De.Robin.Hood.1990.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9Q6UD3SUSIQ94KuHUTiJf1RzaSC.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Uma Escola Atrapalhada - 1990[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/35-LS-Uma Escola.Atrapalhada.1990.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bhnNNuHs9qs45gy98GmdUIGKDh2.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Os Trapalhões e a Árvore da Juventude - 1991[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/36-LS-Os.Trapalhoes.e.a.Arvore.Da.Juventude.1991.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9Q6UD3SUSIQ94KuHUTiJf1RzaSC.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Noviço Rebelde - 1997[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/37-LS-O.Noviso.Rebelde.1997.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hp6PFaJr7PXwl3Ci2Fgpq2OhLyt.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]Simão o Fantasma Trapalhão - 1998[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/38-LS-Simao.o.Fantasma.Trapalhao.1998.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/r8h5xaVCsEBCAUEUdUPtYzMHv6K.jpg",[COLOR orange][B]S - LS[COLOR yellow] -> [COLOR white]O Trapalhão e a Luz Azul - 1999[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/39-LS-O.Trapalhao.e.a.Luz.Azul.1999.mkv
+<item>
+<title>[COLOR white][B]Na Onda do Iê-Iê-Iê (1966) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/01-LS-Na.Onda.do.Ie-Ie-Ie.1965.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/l756tPV14Gg2PRDlqCcdJAdwsHl.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Na Onda do Iê-Iê-Iê
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os amigos Didi e Dedé ajudam o cantor César Silva a vencer no mundo artístico. 
+Ele se apresenta no programa de calouros da TV Excelsior A hora da buzina apresentado por Chacrinha.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B].[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR white][B]Adorável Trapalhão (1967) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/02-LS-Adoravel.Trapalhao.1966.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/e5lRd7TOfN9tHZI5a9FkJxmOIr4.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Adorável Trapalhão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Epitácio é o empregado de um empresário musical, que perdeu a mulher e vive com os três 
+filhos. Preocupado com a felicidade dele, Epitácio vai tentar arranjar uma esposa para o chefe.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[COLOR white][B]Dois na Lona (1968) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/03-LS-Dois.Na.Lona.1967.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/a01RPr5UXcxxwvKHmNgpuqTGU4C.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Dois na Lona
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As lutas de Vale-Tudo estão no auge da popularidade no país. Ao assistir uma briga em 
+um parque, o empresário do lutador campeão, o feroz Lobo, resolve convidar um pobre mecânico para uma luta teste.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Bonga, o Vagabundo (1969) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/04-LS-Bonga.O.Vagabundo.1969.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A9xgNYuk82TxN19elDO3wk1mw7t.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Bonga, o Vagabundo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Bonga é um vagabundo que vive pelas ruas, sozinho e livre, sem compromissos, 
+a não ser aplicar golpes ingênuos para poder comer ,conhece um playboy e com ele constrói uma grande amizade.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Ali Babá e os Quarenta Ladrões (1972) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/05-LS-Ali.Baba.e.os.Quarenta.Ladroes.1972.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mQ38hsUjpHSBrsC7MUa9TjaaKgr.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Ali Babá e os Quarenta Ladrões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1972
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Ali Baba descobre um depósito de mercadorias escondidas por 40 ladrões, que contém cigarros 
+estrangeiros, uísque, aparelhos de rádio e televisão e muito dinheiro falso.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Aladim e a Lâmpada Maravilhosa (1973) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/06-LS-Aladim.e.a.Lampada.Maravilhosa.1973.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/LtUtFf1AuUTz77TaK09DdN3Lrm.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Aladim e a Lâmpada Maravilhosa
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aladim possui o anel, sem saber dos poderes mágicos. Quando encontra a lâmpada, 
+envelhecida, vê dela sair um enorme gênio, disposto a satisfazer seus desejos.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Robin Hood, O Trapalhão da Floresta (1974) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/07-LS-Robin.Hood.O.Trapalhao.da.Floresta.1973.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3D4XTsvAgOtnchjboxHFMOOJrzd.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Robin Hood, O Trapalhão da Floresta
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1974
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Zé Grilo vai se passar por Robin enquanto este se recupera. 
+Protegido por um velho índio, Grilo põe João em situações ridículas e atrapalha seus planos de casar Catarina com Nepomuceno. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Trapalhão na Ilha do Tesouro (1975) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/08-LS-O.Trapalhao.Na.Ilha.do.Tesouro.1974.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/cJngDD5zB9XBkbYaKQjLfCGK3uY.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Trapalhão na Ilha do Tesouro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Zé Cação e Lula descobrem a muamba de uma quadrilha de contrabandistas e passam a ser 
+perseguidos por eles. No encalço dos bandidos também está o agente federal Carlos.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Simbad, O Marujo Trapalhão (1976) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/09-LS-Simbad.o.Marujo.Trapalhao.1975.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6ynVmlit6eaL66WkF2eMajhJbGm.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Simbad, O Marujo Trapalhão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1976
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O trapalhão é raptado pelos capangas do mágico Ali Tuffi, que já possui o gênio da 
+lâmpada mágica, mas precisa de Simbad, para localizar a pedra filosofal com a qual terá fortuna e poder.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Trapalhão no Planalto dos Macacos (1976) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/10-LS-O.Trapalhao.no.Planalto.dos.Macacos.1976.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gFz2PFZNysT0SsoqfQT0XkcqqYU.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Trapalhão no Planalto dos Macacos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1976
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Conde e Alex são confundidos pelo Guarda Azevedo com assaltantes de uma joalheria. 
+Na fuga, os três embarcam em um balão, conduzido por Rodrigo, indo parar em um planalto habitado por homens-macacos.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Trapalhão nas Minas do Rei Salomão (1977) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/11-LS-Os.Trapalhoes.nas.Minas.do.Rei.Salomao.1977.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/9YOkjJwbM0GiYSJKnaU49jpl5DN.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Trapalhão nas Minas do Rei Salomão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A jovem Glória contrata Pilo e Duka para uma expedição às minas do Rei Salomão, onde o pai 
+dela, o arqueólogo Aristóbulo, é prisioneiro. Oferece como prêmio um fabuloso tesouro desconhecido.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões na Guerra dos Planetas (1978) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/12-LS-Os.Trapalhoes.na.Guerra.dos.Planetas.1978.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7YKkoRpSsrCVeNoWVEEDoenrCnP.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Trapalhões na Guerra dos Planetas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Príncipe Flick pede ajuda para libertar o planeta do domínio do malvado Zuco. 
+Ele oferece uma recompensa,os quatro amigos,embarcam em uma nave espacial pilotada por um monstro peludo chamado Bonzo.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Cinderelo Trapalhão (1979) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/13-LS-Cinderelo.Trapalhao.1979.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j6uAw34uPo1sjRFOSXxTTOhZl0f.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Cinderelo Trapalhão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1979
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Cinderelo é um rapaz pacato desprezado por andar sujo e ser covarde. Na verdade, 
+é muito corajoso e revela sua força quando uma família pede a ajuda contra um poderoso fazendeiro.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Rei e os Trapalhões (1979) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/14-LS-O.Rei.e.Os.Trapalhoes.1979.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uawG2ASZPyBHujOuljEd0BqZaF1.jpg </thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Rei e os Trapalhões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1979
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Em uma cidade do Oriente, o trono do jovem Rei Amad é usurpado pelo malvado Vizir Jafar. 
+Na cadeia, o rei conhece os famosos ladrões do reino: Abdul, Abel, Abol e Abil. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Três Mosqueteiros Trapalhões (1980) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/15-LS-Os.Tres.Mosqueteiros.Trapalhoes.1980.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nzi3t6CzLqHlJw9mUucH2Nq4bQx.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Três Mosqueteiros Trapalhões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1980
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os Trapalhões são enviados em missão de resgate, enfrentando agiotas e contrabandistas 
+desde o Amazonas até Foz do Iguaçu.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Incrível Monstro Trapalhão (1981) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/16-LS-O.Incrivel.Monstro.Trapalhao.1980.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xAP2ZzCdiOdrynIwPR702gMK668.jpg </thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Incrível Monstro Trapalhão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1981
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jegue faz pesquisas em um laboratório, visando desenvolver um combustível mais eficiente. 
+Destas misturas, ele obtém uma poção que o transforma em um homem monstruoso, com uma força descomunal. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Mundo Mágico dos Trapalhões (1981) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/17-LS-O.Mundo.Magico.Dos.Trapalhoes.1981.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c29OwDKa385qN4w7vUOgUkwUkQJ.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Mundo Mágico dos Trapalhões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1981
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A trajetória e a obra de quatro dos maiores humoristas da história brasileira: 
+Didi, Dedé, Mussum e Zacarias, os Trapalhões. Através de depoimentos de colaboradores e admiradores.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Saltimbancos Trapalhões (1981) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/18-LS-Os.Saltimbancos.Trapalhoes.1981.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fWYBeNsJUPtxtnXHT1ViLI3LeKe.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Saltimbancos Trapalhões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1981
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Funcionários humildes, os amigos Didi, Dedé, Mussum e Zacarias se tornam a grande 
+atração do circo Bartholo, graças à sua incrível capacidade de fazer o público rir.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Vagabundos Trapalhões (1982) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/19-LS-Os.Vagabundos.Trapalhoes.1982.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sSIaLy7vbvmIRUx6J7IVXTZB9fo.jpg </thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Vagabundos Trapalhões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1982
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Liderados por Bonga, os vagabundos percorrem as ruas da cidade, recolhendo crianças 
+órfãs ou abandonadas por carência material. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões na Serra Pelada (1982) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/20-LS-Os.Trapalhoes.Na.Serra.Pelada.1982.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/krFAA4kpf3SPIqU5k4CEG8R4eQO.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Trapalhões na Serra Pelada
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1982
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os amigos Curió, Boroca, Mexelete e Bateia, aventuram-se em busca de ouro no garimpo 
+de Serra Pelada. A região é controlada pelo estrangeiro Von Bermann, cujas ordens são executadas pelo capanga Bira.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Cangaceiro Trapalhão (1983) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/21-LS-O.Cangaceiro.Trapalhao.1983.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sPq3pZBqWt5GlB0vAreTkr1TTOf.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Cangaceiro Trapalhão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1983
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Severino do Quixadá, um pastor de cabras, salva Capitão e seu bando de cangaceiros de 
+uma emboscada do tenente Bezerra. Na confusão, os amigos Mussum e Zacarias aproveitam e fogem da cadeia.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Trapalhão na Arca de Noé (1983) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/22-LS-O.Trapalhao.na.Arca.De.Noe.1981.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wA6v0Rw9pmUI1DiWWB5ytxqYW4E.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Trapalhão na Arca de Noé
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1983
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O faxineiro de zoológico Duda e os amigos Kiko e Zeca formam um grupo de proteção 
+aos animais. Por isso, são convocados pelo místico Noé para uma missão de salvamento da fauna e flora do Pantanal.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões e o Mágico de Oróz (1984)) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/23-LS-Os.Trapalhoes.e.o.Magico.De.Oroz.1984.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vuqGUnWLyLC17zYXWPwfT43145A.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1984
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Desesperados com a falta de comida e a miséria no Nordeste, os amigos Didi, Sóro e Tatu 
+partem para a cidade. No caminho, encontram um Espantalho abandonado que deseja possuir um cérebro.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]A Filha dos Trapalhões (1984) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/24-LS-A.Filha.dos.Trapalhoes.1984.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xK3k94RSkW7u1walQlTxP16G5Tj.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]<NOMEDOFILME>
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1984
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os Trapalhões moram em um barco flutuante, na maior miséria. Apesar disto, resolvem ficar 
+e cuidar de um bebê abandonado encontrado por Didi, tratando a criança como se fosse sua própria filha. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões no Reino da Fantasia (1985) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/25-LS-Os.Trapalhoes.No.Reino.Da.Fantasia.1985.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4vQYLnT3fOE1CfyHfRSYOsU1Xhc.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Trapalhões no Reino da Fantasia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os Trapalhões fazem um espetáculo em benefício de um orfanato dirigido por Irmã Maria, 
+que enfrenta dificuldades financeiras. Enquanto realizam o espetáculo, o dinheiro dos ingressos é roubado.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões no Rabo do Cometa (1986) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/26-LS-Os.Trapalhoes.No.Rabo.Do.Cometa.1985.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8XoZzttXVWuoYt8L6nxqP0xFAas.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Trapalhões no Rabo do Cometa
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma viagem no tempo, contada em forma de desenho animado, com caracterizações dos Trapalhões.
+ Eles começam o filme no Teatro Scala, no Rio de Janeiro, recebendo no palco Maurício de Souza.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões e o Rei do Futebol (1986) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/27-LS-Os.Trapalhoes.e.o.Rei.Do.Futebol.1986.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uEie8BuqKLzX5WFXQ6HExwPiqwJ.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Trapalhões e o Rei do Futebol
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os amigos Cardeal, Elvis, Fumê e Tremoço trabalham como faxineiros e roupeiros do 
+Independência Futebol Clube.E o time começa a vencer seus jogos, o que não agrada a alguns cartolas da equipe. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões no Auto da Compadecida (1987) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/28-LS-Os.Trapalhoes.no.Auto.da.Compadecida.1987.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rZhfd9BvXFNEjBGGJCIA8Gy3VJO.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Trapalhões no Auto da Compadecida
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Na pequena cidade de Taperoá, João Grilo e Chicó vivem armando confusões, 
+afrontando um sacristão humilde e um padeiro. Todos vivem sob os desmandos do bispo, do padre e do major.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Fantasmas Trapalhões (1987) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/29-LS-Os.Fantasmas.Trapalhoes.1988.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iZ7QSsfkqJJNIT1GQcXVs01Rjq8.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Fantasmas Trapalhões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os amigos Didi, Dedé, Mussum e Zacarias ganham a vida vendendo artesanato à beira da estrada.
+ Eles são surpreendidos por uma perseguição de carros, que resulta em um acidente.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Heróis Trapalhões Uma Aventura na Selva (1988) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/30-LS-Os.Herois.Trapalhoes.Uma.Aventura.Na.Selva.1988.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sghqwymNH187Vg5bOY3vX7g1KD2.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Heróis Trapalhões Uma Aventura na Selva
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1988
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um homem sedento por poder sequestra a filha do Ministro do Exército. 
+Presos por terem se apropriado de um tanque do exército, Didi, Dedé, Mussum e Zacarias são enviados em uma missão de resgate.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Casamento dos Trapalhões (1988) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/31-LS-O.Casamento.dos.Trapalhoes.1988.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xKoM05UcZEFznOwrs0RjX4afS1g.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Casamento dos Trapalhões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1988
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Quatro irmãos, são caipiras que vivem na área rural. Didi vai até uma cidade próxima e, 
+após entrar em uma briga com Expedito, conquista Joana, que o segue até o seu rancho. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]A Princesa Xuxa e os Trapalhões (1989) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/32-LS-A.Princesa.Xuxa.e.Os.Trapalhoes.1989.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFIv5EDwRjSt80H4Mkd3bMVsx1b.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Princesa Xuxa e os Trapalhões
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O diabólico Ratam assume o poder do planeta Antar, após a morte do imperador local, 
+e ordena que todas as crianças sejam capturadas para trabalharem como escravas.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões na Terra dos Monstros (1989) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/33-LS-Os.Trapalhoes.Na.Terra.Dos.Monstros.1989.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pinxZ81xfig6sNeVPCSfTIbGgBI.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Trapalhões na Terra dos Monstros
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Tentando encontrar a filha de um empresário sequestrada, o quarteto cai num buraco na 
+Pedra da Gávea que é povoado por estranhas criaturas, algumas boas, os Grunks, e outras más, os Barks.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Mistério de Robin Hood (1990) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/34-LS-Xuxa.e.os.Trapalhoes.Em.O.Misterio.De.Robin.Hood.1990.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3VBItZiqd8FWzfNcJAAFY6no3Uc.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Mistério de Robin Hood
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O vagabundo Didi é um Robin Hood moderno, que rouba dos contrabandistas e agiotas para 
+dar aos necessitados. Ele mora em um esconderijo próximo a um circo e é apaixonado por Tatiana, a filha de um mágico.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Uma Escola Atrapalhada (1990) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/35-LS-Uma Escola.Atrapalhada.1990.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Q6UD3SUSIQ94KuHUTiJf1RzaSC.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Uma Escola Atrapalhada
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma imobiliária deseja comprar e demolir o tradicional colégio Matheus Rose, para utilizar 
+o terreno para a construção de um hotel. A situação cria um clima de desconfiança entre os alunos e funcionários.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Trapalhões e a Árvore da Juventude (1991) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/36-LS-Os.Trapalhoes.e.a.Arvore.Da.Juventude.1991.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bhnNNuHs9qs45gy98GmdUIGKDh2.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Trapalhões e a Árvore da Juventude
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1991
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os Trapalhões são guardas-florestais que trabalham em plena Amazônia, onde combatem a 
+ação de contrabandistas com a ajuda de Juliana, uma bela engenheira. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Noviço Rebelde (1997) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/37-LS-O.Noviso.Rebelde.1997.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Q6UD3SUSIQ94KuHUTiJf1RzaSC.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Noviço Rebelde
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um temporal destrói a igrejinha do local. Um noviço sonha em conseguir dinheiro para a 
+reconstrução, mas um coronel acha que ele sabe sobre um mapa, que diz a localização de tesouro e o persegue.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Simão o Fantasma Trapalhão (1998) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/38-LS-Simao.o.Fantasma.Trapalhao.1998.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hp6PFaJr7PXwl3Ci2Fgpq2OhLyt.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Simão o Fantasma Trapalhão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1998
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um milionário e sua mulher compram um castelo assombrado, pois querem um fantasma só deles. 
+E vão com os netos conhecer a propriedade, mas Didi e Dedé, os dois motoristas, não gostam nada da situação.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Trapalhão e a Luz Azul (1999) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Os.Trapalhoes/FLM/39-LS-O.Trapalhao.e.a.Luz.Azul.1999.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r8h5xaVCsEBCAUEUdUPtYzMHv6K.jpg</thumbnail>
+<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Trapalhão e a Luz Azul
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1999
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]David, um cantor de rock, e Didi, seu ajudante de palco, são magicamente transportados 
+para um mundo distante, onde todos seus conhecidos vivem com outras identidades.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
